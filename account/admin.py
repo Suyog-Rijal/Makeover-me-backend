@@ -10,11 +10,17 @@ class UserAdmin(BaseUserAdmin):
 	list_display = ['email', 'full_name', 'is_active', 'is_verified', 'is_google_user']
 	list_filter = ['is_active', 'is_staff', 'is_google_user', 'is_verified']
 
+	readonly_fields = ('created_at', 'updated_at', 'last_login')
+
 	fieldsets = (
 		(None, {'fields': ('email', 'password')}),
 		(_('Personal info'), {'fields': ('full_name', 'contact')}),
-		(_('Permissions'), {'fields': (
-			'is_active', 'is_staff', 'is_superuser', 'is_verified', 'is_google_user', 'groups', 'user_permissions')}),
+		(_('Permissions'), {
+			'fields': (
+				'is_active', 'is_staff', 'is_superuser', 'is_verified',
+				'is_google_user', 'groups', 'user_permissions'
+			)
+		}),
 		(_('Important dates'), {'fields': ('last_login', 'created_at', 'updated_at')}),
 	)
 
@@ -22,7 +28,9 @@ class UserAdmin(BaseUserAdmin):
 		(None, {
 			'classes': ('wide',),
 			'fields': (
-				'email', 'full_name', 'password1', 'password2', 'is_active', 'is_staff', 'is_superuser', 'is_verified'),
+				'email', 'full_name', 'password1', 'password2',
+				'is_active', 'is_staff', 'is_superuser', 'is_verified'
+			),
 		}),
 	)
 
