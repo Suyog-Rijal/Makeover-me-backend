@@ -34,6 +34,9 @@ INSTALLED_APPS = [
     'rest_framework_simplejwt.token_blacklist',
     'corsheaders',
     'drf_spectacular',
+
+    # Local apps
+    'account',
 ]
 
 MIDDLEWARE = [
@@ -133,9 +136,12 @@ REST_FRAMEWORK = {
     'DEFAULT_SCHEMA_CLASS': 'drf_spectacular.openapi.AutoSchema',
 }
 
+# Auth User Model
+AUTH_USER_MODEL = 'account.User'
+
 # DRF Spectacular (OpenAPI)
 SPECTACULAR_SETTINGS = {
-    'TITLE': 'Silent Whisp API',
+    'TITLE': 'Makeover Me API',
     'VERSION': '1.0.0',
     'SERVE_INCLUDE_SCHEMA': False,
     'SECURITY': [{'BearerAuth': []}],
