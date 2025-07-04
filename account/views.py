@@ -30,13 +30,7 @@ class SignupView(APIView):
 			verification_link = f"{settings.FRONTEND_URL}/verify-email/?uid={uid}&token={token}"
 			send_email_confirmation_mail.delay(user.email, verification_link)
 		return Response({
-			'message': 'User created successfully. Please check your email for verification link.' if not user.is_active else 'User created successfully.',
-			'data': {
-				'id': user.id,
-				'email': user.email,
-				'full_name': user.full_name,
-				'avatar': user.avatar.url if hasattr(user, 'avatar') and user.avatar else None,
-			}
+			'detail': 'Account created successfully. Please check your email for verification link.'
 		}, status=status.HTTP_201_CREATED)
 
 

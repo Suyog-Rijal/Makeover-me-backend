@@ -1,2 +1,58 @@
-/db.sqlite3
-/.env
+# Django
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+**/__pycache__/
+*$py.class
+
+# Environment variables
+.env
+
+# SQLite database
+db.sqlite3
+
+# Logs
+logs/
+*.log
+
+# Django migrations (optional - remove if you want to track migrations)
+# **/migrations/
+# !**/migrations/__init__.py
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# Python build
+.pybuilder/
+target/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Pipenv
+Pipfile.lock
+
+# Virtual environments
+venv/
+.venv/
+
+# Coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+.cache/
+.pytest_cache/
+
+# Static files
+staticfiles/
