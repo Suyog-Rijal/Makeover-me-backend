@@ -1,6 +1,10 @@
 import re
+
+from django.conf import settings
 from rest_framework import serializers
 from django.contrib.auth import get_user_model
+from api.tasks import send_email_confirmation_mail
+from api.tokens import generate_email_confirmation_token
 
 User = get_user_model()
 
@@ -55,16 +59,25 @@ class LoginSerializer(serializers.Serializer):
 		user = User.objects.filter(email=email).first()
 		if not user:
 			raise serializers.ValidationError("Invalid email or password.")
-		if not user.check_password(password):
-			raise serializers.ValidationError("Invalid email or password.")
+		if not user.is_verified:
+			token = generate_email_confirmation_token(user.pk)
+			verification_link = f"{settings.FRONTEND_URL}/auth/verify-email?token={token}"
+			send_email_confirmation_mail.delay(user.email, verification_link)
+			raise serializers.ValidationError(
+				"Email is not verified. Please check your inbox and verify the email clicking the verification link.")
 		if not user.is_active:
 			raise serializers.ValidationError("This account has been disabled. Please contact support.")
-		if not user.is_verified:
-			raise serializers.ValidationError(
-				"Email is not verified. Please check your inbox for the verification email.")
 		if user.is_google_user:
 			raise serializers.ValidationError(
 				"This email is associated with a Google account. Please log in using Google.")
+		if not user.check_password(password):
+			raise serializers.ValidationError("Invalid email or password.")
 
 		attrs['user'] = user
 		return attrs
+
+
+class MeSerializer(serializers.ModelSerializer):
+	class Meta:
+		model = User
+		fields = ('email', 'full_name', 'contact', 'avatar')
