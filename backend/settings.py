@@ -6,12 +6,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 env = environ.Env(
 	DEBUG=(bool, False),
-	PRODUCTION=(bool, False),
+	PRODUCTION=(bool, True),
 )
 environ.Env.read_env(BASE_DIR / '.env')
 
-DEBUG = env('DEBUG')
-PRODUCTION = env('PRODUCTION')
+DEBUG = env('DEBUG', default=False)
+PRODUCTION = env('PRODUCTION', default=True)
 
 SECRET_KEY = env('SECRET_KEY')
 
@@ -121,7 +121,7 @@ if PRODUCTION:
 	SESSION_COOKIE_HTTPONLY = True
 	SESSION_COOKIE_SAMESITE = 'Lax'
 	SESSION_COOKIE_AGE = 3600
-	CSRF_COOKIE_HTTPONLY = True
+	CSRF_COOKIE_HTTPONLY = False
 	CSRF_COOKIE_SAMESITE = 'Lax'
 	X_FRAME_OPTIONS = 'DENY'
 	SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
@@ -186,6 +186,10 @@ SIMPLE_JWT = {
 	'ROTATE_REFRESH_TOKENS': env.bool('ROTATE_REFRESH_TOKENS', default=True),
 	'BLACKLIST_AFTER_ROTATION': env.bool('BLACKLIST_AFTER_ROTATION', default=True),
 	'UPDATE_LAST_LOGIN': env.bool('UPDATE_LAST_LOGIN', default=True),
+	'AUTH_COOKIE': 'refresh_token',
+	'AUTH_COOKIE_HTTP_ONLY': True,
+	'AUTH_COOKIE_SECURE': PRODUCTION,
+	'AUTH_COOKIE_SAMESITE': 'Lax',
 
 	'ALGORITHM': 'HS512',
 	'SIGNING_KEY': SECRET_KEY,
@@ -297,3 +301,15 @@ LOGGING = {
 		},
 	},
 }
+
+# Other tokens
+EMAIL_CONFIRMATION_TOKEN_MAX_AGE = env.int('EMAIL_CONFIRMATION_TOKEN_MAX_AGE', default=60 * 60)
+
+
+# CSRF Settings
+CSRF_FAILURE_VIEW = 'api.views.csrf_failure'
+CSRF_COOKIE_NAME = "csrftoken"
+CSRF_COOKIE_HTTPONLY = False
+CSRF_COOKIE_SECURE = PRODUCTION
+CSRF_COOKIE_SAMESITE = 'Lax'
+CSRF_TRUSTED_ORIGINS = env.list('CSRF_TRUSTED_ORIGINS', default=[])
