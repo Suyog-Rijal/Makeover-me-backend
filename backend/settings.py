@@ -34,10 +34,13 @@ INSTALLED_APPS = [
 	'rest_framework_simplejwt.token_blacklist',
 	'corsheaders',
 	'drf_spectacular',
+	'easy_thumbnails',
+	'filer',
 
 	# Local apps
 	'api',
 	'account',
+	'category',
 ]
 
 MIDDLEWARE = [
@@ -103,7 +106,14 @@ USE_I18N = True
 USE_TZ = True
 
 STATIC_URL = 'static/'
-STATIC_ROOT = BASE_DIR / 'staticfiles' if PRODUCTION else None
+if PRODUCTION:
+	STATIC_ROOT = BASE_DIR / 'staticfiles'
+else:
+	STATICFILES_DIRS = [
+		BASE_DIR / 'static/',
+	]
+MEDIA_URL = 'media/'
+MEDIA_ROOT = BASE_DIR / 'media'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
@@ -305,7 +315,6 @@ LOGGING = {
 # Other tokens
 EMAIL_CONFIRMATION_TOKEN_MAX_AGE = env.int('EMAIL_CONFIRMATION_TOKEN_MAX_AGE', default=60 * 60)
 
-
 # CSRF Settings
 CSRF_FAILURE_VIEW = 'api.views.csrf_failure'
 CSRF_COOKIE_NAME = "csrftoken"
@@ -313,3 +322,21 @@ CSRF_COOKIE_HTTPONLY = False
 CSRF_COOKIE_SECURE = PRODUCTION
 CSRF_COOKIE_SAMESITE = 'Lax'
 CSRF_TRUSTED_ORIGINS = env.list('CSRF_TRUSTED_ORIGINS', default=[])
+
+
+# Filer Settings
+# THUMBNAIL_HIGH_RESOLUTION = True
+# THUMBNAIL_QUALITY = 85
+# THUMBNAIL_PROCESSORS = (
+# 	'easy_thumbnails.processors.colorspace',
+# 	'easy_thumbnails.processors.autocrop',
+# 	'filer.thumbnail_processors.scale_and_crop_with_subject_location',
+# 	'easy_thumbnails.processors.filters',
+# )
+# THUMBNAIL_ALIASES = {
+# 	'': {
+# 		'admin_thumb': {'size': (100, 100), 'crop': True},
+# 		'product_thumb': {'size': (400, 400), 'crop': True},
+# 		'featured_large': {'size': (800, 600), 'crop': True},
+# 	}
+# }
