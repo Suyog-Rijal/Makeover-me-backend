@@ -249,15 +249,23 @@ else:
 	EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
 # Cache Configuration
-CACHES = {
-	'default': {
-		'BACKEND': 'django_redis.cache.RedisCache',
-		'LOCATION': env('REDIS_CACHE_URL'),
-		'OPTIONS': {
-			'CLIENT_CLASS': 'django_redis.client.DefaultClient',
-		},
+if PRODUCTION:
+	CACHES = {
+		'default': {
+			'BACKEND': 'django_redis.cache.RedisCache',
+			'LOCATION': env('REDIS_CACHE_URL'),
+			'OPTIONS': {
+				'CLIENT_CLASS': 'django_redis.client.DefaultClient',
+			},
+		}
 	}
-}
+else:
+	CACHES = {
+		"default": {
+			"BACKEND": "django.core.cache.backends.locmem.LocMemCache",
+			"LOCATION": "",
+		}
+	}
 
 # Celery Configuration
 CELERY_BROKER_URL = env('CELERY_BROKER_URL', default=env('REDIS_CACHE_URL'))
