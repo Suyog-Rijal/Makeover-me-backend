@@ -1,7 +1,5 @@
 from django.contrib.auth import get_user_model
-from django.core.exceptions import PermissionDenied
 from django.core.signing import SignatureExpired, BadSignature
-from django.views.decorators.csrf import csrf_exempt
 from drf_spectacular.utils import extend_schema
 from rest_framework import status
 from rest_framework.permissions import AllowAny, IsAuthenticated
@@ -21,7 +19,7 @@ User = get_user_model()
 class SignupView(APIView):
 	permission_classes = [AllowAny]
 
-	@extend_schema(tags=['Authentication'], request=SignupSerializer, auth=[])
+	@extend_schema(tags=['Authentication'], request=SignupSerializer, auth=[], summary="Create an account")
 	def post(self, request):
 		serializer = SignupSerializer(data=request.data)
 		serializer.is_valid(raise_exception=True)
@@ -41,7 +39,7 @@ class LoginView(APIView):
 	permission_classes = [AllowAny]
 	throttle_scope = 'login_attempts'
 
-	@extend_schema(tags=['Authentication'], request=LoginSerializer, auth=[])
+	@extend_schema(tags=['Authentication'], request=LoginSerializer, auth=[], summary="Login a user")
 	def post(self, request):
 		serializer = LoginSerializer(data=request.data)
 		serializer.is_valid(raise_exception=True)
@@ -75,7 +73,7 @@ class LoginView(APIView):
 class RefreshView(APIView):
 	permission_classes = [AllowAny]
 
-	@extend_schema(tags=['Authentication'], auth=[])
+	@extend_schema(tags=['Authentication'], auth=[], summary="Refresh access token using refresh token")
 	def post(self, request):
 		refresh_token = request.COOKIES.get(settings.SIMPLE_JWT['AUTH_COOKIE'])
 		if not refresh_token:
@@ -126,7 +124,7 @@ class RefreshView(APIView):
 class VerifyEmailView(APIView):
 	permission_classes = [AllowAny]
 
-	@extend_schema(tags=['Authentication'], auth=[])
+	@extend_schema(tags=['Authentication'], auth=[], summary="Verify email address")
 	def get(self, request):
 		token = request.query_params.get("token", "")
 		try:
@@ -172,7 +170,7 @@ class VerifyEmailView(APIView):
 class MeView(APIView):
 	permission_classes = [IsAuthenticated]
 
-	@extend_schema(tags=['Authentication'])
+	@extend_schema(tags=['Authentication'], summary="Get current user details")
 	def get(self, request):
 		serializer = MeSerializer(request.user)
 		return Response(serializer.data, status=status.HTTP_200_OK)

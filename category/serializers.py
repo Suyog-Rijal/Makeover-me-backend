@@ -3,7 +3,7 @@ from rest_framework import serializers
 from category.models import Category, SubCategory
 
 
-class SimpleSubCategorySerializer(serializers.ModelSerializer):
+class SubCategorySerializer(serializers.ModelSerializer):
 	class Meta:
 		model = SubCategory
 		fields = (
@@ -16,7 +16,7 @@ class SimpleSubCategorySerializer(serializers.ModelSerializer):
 
 
 class CategorySerializer(serializers.ModelSerializer):
-	subcategories = SimpleSubCategorySerializer(many=True, read_only=True)
+	subcategories = SubCategorySerializer(many=True, read_only=True)
 
 	class Meta:
 		model = Category

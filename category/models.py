@@ -54,6 +54,7 @@ class Category(models.Model):
 		verbose_name_plural = 'Categories'
 
 	def save(self, *args, **kwargs):
+		self.name = self.name.strip().title()
 		self.slug = generate_unique_category_slug(self)
 		super().save(*args, **kwargs)
 
@@ -88,6 +89,7 @@ class SubCategory(models.Model):
 		verbose_name_plural = 'SubCategories'
 
 	def save(self, *args, **kwargs):
+		self.name = self.name.strip().title()
 		self.slug = generate_unique_subcategory_slug(self)
 		super().save(*args, **kwargs)
 

@@ -1,5 +1,5 @@
 from drf_spectacular.utils import extend_schema_view, extend_schema
-from rest_framework.viewsets import ModelViewSet
+from rest_framework.viewsets import ModelViewSet, ReadOnlyModelViewSet
 
 from .models import Category
 from .serializers import CategorySerializer
@@ -8,11 +8,13 @@ from .serializers import CategorySerializer
 @extend_schema_view(
 	list=extend_schema(
 		summary="List all categories",
-		tags=["Category"]
+		tags=["Category"],
+		auth=[]
 	),
 	retrieve=extend_schema(
 		summary="Retrieve a category by slug",
-		tags=["Category"]
+		tags=["Category"],
+		auth=[],
 	)
 )
 class CategoryViewSet(ModelViewSet):
