@@ -43,9 +43,15 @@ INSTALLED_APPS = [
 	'category',
 ]
 
+if PRODUCTION:
+	INSTALLED_APPS += [
+		'whitenoise.runserver_nostatic',
+	]
+
 MIDDLEWARE = [
 	'corsheaders.middleware.CorsMiddleware',
 	'django.middleware.security.SecurityMiddleware',
+	'whitenoise.middleware.WhiteNoiseMiddleware',
 	'django.contrib.sessions.middleware.SessionMiddleware',
 	'django.middleware.common.CommonMiddleware',
 	'django.middleware.csrf.CsrfViewMiddleware',
@@ -106,11 +112,9 @@ USE_I18N = True
 USE_TZ = True
 
 STATIC_URL = 'static/'
-if PRODUCTION:
-	STATIC_ROOT = BASE_DIR / 'staticfiles'
-else:
-	STATICFILES_DIRS = [
-		BASE_DIR / 'static/',
+STATIC_ROOT = BASE_DIR / 'static_root'
+STATICFILES_DIRS = [
+	BASE_DIR / 'staticfiles/',
 	]
 MEDIA_URL = 'media/'
 MEDIA_ROOT = BASE_DIR / 'media'
@@ -323,20 +327,9 @@ CSRF_COOKIE_SECURE = PRODUCTION
 CSRF_COOKIE_SAMESITE = 'Lax'
 CSRF_TRUSTED_ORIGINS = env.list('CSRF_TRUSTED_ORIGINS', default=[])
 
-
-# Filer Settings
-# THUMBNAIL_HIGH_RESOLUTION = True
-# THUMBNAIL_QUALITY = 85
-# THUMBNAIL_PROCESSORS = (
-# 	'easy_thumbnails.processors.colorspace',
-# 	'easy_thumbnails.processors.autocrop',
-# 	'filer.thumbnail_processors.scale_and_crop_with_subject_location',
-# 	'easy_thumbnails.processors.filters',
-# )
-# THUMBNAIL_ALIASES = {
-# 	'': {
-# 		'admin_thumb': {'size': (100, 100), 'crop': True},
-# 		'product_thumb': {'size': (400, 400), 'crop': True},
-# 		'featured_large': {'size': (800, 600), 'crop': True},
-# 	}
-# }
+# Whitenoise Configuration
+STORAGES = {
+	'staticfiles': {
+		'BACKEND': 'whitenoise.storage.CompressedManifestStaticFilesStorage',
+	}
+}
