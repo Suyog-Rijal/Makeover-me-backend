@@ -1,0 +1,5298 @@
+[
+    {
+        "city": "Bheriganga",
+        "area": "Bahunichaur"
+    },
+    {
+        "city": "Bheriganga",
+        "area": "Chhinchu"
+    },
+    {
+        "city": "Bheriganga",
+        "area": "Jahare Bazaar"
+    },
+    {
+        "city": "Bheriganga",
+        "area": "Ramghat"
+    },
+    {
+        "city": "Birendranagar - Surkhet",
+        "area": "Army Camp Area"
+    },
+    {
+        "city": "Birendranagar - Surkhet",
+        "area": "Dhuliyabit Area"
+    },
+    {
+        "city": "Birendranagar - Surkhet",
+        "area": "Kakrebihar Area"
+    },
+    {
+        "city": "Birendranagar - Surkhet",
+        "area": "Mangalgadhi Chowk Area"
+    },
+    {
+        "city": "Birendranagar - Surkhet",
+        "area": "Radio Nepal Area"
+    },
+    {
+        "city": "Birendranagar - Surkhet",
+        "area": "Surkhet Hospital Area"
+    },
+    {
+        "city": "Birendranagar - Surkhet",
+        "area": "Uttarganga Area"
+    },
+    {
+        "city": "Lekbeshi",
+        "area": "Dashrathpur"
+    },
+    {
+        "city": "Lekbeshi",
+        "area": "Salli Bazar"
+    },
+    {
+        "city": "Banepa",
+        "area": "28 Kilo Area"
+    },
+    {
+        "city": "Banepa",
+        "area": "Banepa Chowk Area"
+    },
+    {
+        "city": "Banepa",
+        "area": "Basghari Area"
+    },
+    {
+        "city": "Banepa",
+        "area": "Bhainsepati Area"
+    },
+    {
+        "city": "Banepa",
+        "area": "Budol Area"
+    },
+    {
+        "city": "Banepa",
+        "area": "Chandeshwori Temple Area"
+    },
+    {
+        "city": "Banepa",
+        "area": "Dhulikhel Area"
+    },
+    {
+        "city": "Banepa",
+        "area": "Kathmandu university Area"
+    },
+    {
+        "city": "Banepa",
+        "area": "Nala"
+    },
+    {
+        "city": "Banepa",
+        "area": "Naya Basti Area"
+    },
+    {
+        "city": "Banepa",
+        "area": "Sanga"
+    },
+    {
+        "city": "Banepa",
+        "area": "Tindobato Area"
+    },
+    {
+        "city": "Banepa",
+        "area": "Ugratara Janagal Bus Stop Area"
+    },
+    {
+        "city": "Bhaktapur",
+        "area": "Balkot Area"
+    },
+    {
+        "city": "Bhaktapur",
+        "area": "Biruwa Buspark Area"
+    },
+    {
+        "city": "Bhaktapur",
+        "area": "Bode"
+    },
+    {
+        "city": "Bhaktapur",
+        "area": "Duwakot"
+    },
+    {
+        "city": "Bhaktapur",
+        "area": "Gaththaghar Area"
+    },
+    {
+        "city": "Bhaktapur",
+        "area": "Jagati Area"
+    },
+    {
+        "city": "Bhaktapur",
+        "area": "Kamalbinayak Area"
+    },
+    {
+        "city": "Bhaktapur",
+        "area": "Katunje Area"
+    },
+    {
+        "city": "Bhaktapur",
+        "area": "Kausaltar Area"
+    },
+    {
+        "city": "Bhaktapur",
+        "area": "Kharipati"
+    },
+    {
+        "city": "Bhaktapur",
+        "area": "Lohakanthali Area"
+    },
+    {
+        "city": "Bhaktapur",
+        "area": "New Thimi"
+    },
+    {
+        "city": "Bhaktapur",
+        "area": "Old Thimi"
+    },
+    {
+        "city": "Bhaktapur",
+        "area": "Palanse"
+    },
+    {
+        "city": "Bhaktapur",
+        "area": "Sallaghari Area"
+    },
+    {
+        "city": "Bhaktapur",
+        "area": "Sano Thimi Area"
+    },
+    {
+        "city": "Bhaktapur",
+        "area": "Sirutar"
+    },
+    {
+        "city": "Bhaktapur",
+        "area": "Suryabinayak Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Airport Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Barhaghare Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Basant Chowk Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Baseni Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Belchowk Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Bhojad Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Bhrikuti Paper Mills Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Birendra Campus Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Buspark Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Cancer Hospital Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Champa Chaur Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Chanauli"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Chaubiskoti Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Fulbari"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Furti Chowk"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Gauriganj Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Hakim Chowk Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Indradev Marga Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Jalma Hall Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Jugedi Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Junhall Road"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Kamal Nagar Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Krishnapur Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Lankhu Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Lions Chowk Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Mangalpur"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Munal Chowk Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Narayani Path Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Paras Buspark Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Pokhara Buspark Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Putalisadak Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Ramnagar Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Rampur"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Shahid Chowk Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Sharadpur Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Shardanagar"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Thulo Balkumari Area"
+    },
+    {
+        "city": "Bharatpur",
+        "area": "Tikauli"
+    },
+    {
+        "city": "Bhimeshwor - Charikot",
+        "area": "Buspark Chowk"
+    },
+    {
+        "city": "Bhimeshwor - Charikot",
+        "area": "Charihang"
+    },
+    {
+        "city": "Bhimeshwor - Charikot",
+        "area": "Dolakha Bazar Area"
+    },
+    {
+        "city": "Bhimeshwor - Charikot",
+        "area": "Makaibari"
+    },
+    {
+        "city": "Bhimeshwor - Charikot",
+        "area": "Tundikhel"
+    },
+    {
+        "city": "Bidur",
+        "area": "Bidur Chowk"
+    },
+    {
+        "city": "Bidur",
+        "area": "Colony Area"
+    },
+    {
+        "city": "Bidur",
+        "area": "Trishuli Bazar"
+    },
+    {
+        "city": "Hetauda",
+        "area": "Bastipur"
+    },
+    {
+        "city": "Hetauda",
+        "area": "Buddha Chowk"
+    },
+    {
+        "city": "Hetauda",
+        "area": "Cement Factory Area"
+    },
+    {
+        "city": "Hetauda",
+        "area": "Chauki Tole Area"
+    },
+    {
+        "city": "Hetauda",
+        "area": "China Quarters Area"
+    },
+    {
+        "city": "Hetauda",
+        "area": "Eye Hospital Area"
+    },
+    {
+        "city": "Hetauda",
+        "area": "Forestry Institute Area"
+    },
+    {
+        "city": "Hetauda",
+        "area": "Hatiya - Chisapani Area"
+    },
+    {
+        "city": "Hetauda",
+        "area": "Hetauda Bus Park Area"
+    },
+    {
+        "city": "Hetauda",
+        "area": "Hetauda Industrial Estate"
+    },
+    {
+        "city": "Hetauda",
+        "area": "Hupra Chaur Area"
+    },
+    {
+        "city": "Hetauda",
+        "area": "Kamal Dada"
+    },
+    {
+        "city": "Hetauda",
+        "area": "Kamane"
+    },
+    {
+        "city": "Hetauda",
+        "area": "Makwanpur Campus Area"
+    },
+    {
+        "city": "Hetauda",
+        "area": "Manahari Bazar"
+    },
+    {
+        "city": "Hetauda",
+        "area": "Nawalpur"
+    },
+    {
+        "city": "Hetauda",
+        "area": "Padam Pokhari"
+    },
+    {
+        "city": "Hetauda",
+        "area": "Rajaiya"
+    },
+    {
+        "city": "Hetauda",
+        "area": "Ratomate Bazar Area"
+    },
+    {
+        "city": "Hetauda",
+        "area": "Sanopokhara Area"
+    },
+    {
+        "city": "Hetauda",
+        "area": "Seema Chowk Area"
+    },
+    {
+        "city": "Hetauda",
+        "area": "TCN Area"
+    },
+    {
+        "city": "Hetauda",
+        "area": "Thana Bharyang Area"
+    },
+    {
+        "city": "Hetauda",
+        "area": "Uniliver Factory Area"
+    },
+    {
+        "city": "Kalika",
+        "area": "Gunjaman Singh Memorial Hospital Area"
+    },
+    {
+        "city": "Kalika",
+        "area": "Jaymangala Bus Park Area"
+    },
+    {
+        "city": "Kalika",
+        "area": "Jirauna Chowk"
+    },
+    {
+        "city": "Kalika",
+        "area": "Jutpani Chowk"
+    },
+    {
+        "city": "Kalika",
+        "area": "Kholesimal"
+    },
+    {
+        "city": "Kalika",
+        "area": "Subba Chowk"
+    },
+    {
+        "city": "Kathmandu Metro 10 - New Baneshwor Area",
+        "area": "Apex College Area - Pipal Bot"
+    },
+    {
+        "city": "Kathmandu Metro 10 - New Baneshwor Area",
+        "area": "Bijuli Bazar"
+    },
+    {
+        "city": "Kathmandu Metro 10 - New Baneshwor Area",
+        "area": "Buddhanagar"
+    },
+    {
+        "city": "Kathmandu Metro 10 - New Baneshwor Area",
+        "area": "Civil Hospital Area"
+    },
+    {
+        "city": "Kathmandu Metro 10 - New Baneshwor Area",
+        "area": "Ekta Marg"
+    },
+    {
+        "city": "Kathmandu Metro 10 - New Baneshwor Area",
+        "area": "New Baneshwor Chowk"
+    },
+    {
+        "city": "Kathmandu Metro 10 - New Baneshwor Area",
+        "area": "Ratna Rajya Area"
+    },
+    {
+        "city": "Kathmandu Metro 10 - New Baneshwor Area",
+        "area": "Shankhamul Area"
+    },
+    {
+        "city": "Kathmandu Metro 10 - New Baneshwor Area",
+        "area": "Thapagaun Area"
+    },
+    {
+        "city": "Kathmandu Metro 11 - Maitighar Area",
+        "area": "Babarmahal"
+    },
+    {
+        "city": "Kathmandu Metro 11 - Maitighar Area",
+        "area": "Maitighar"
+    },
+    {
+        "city": "Kathmandu Metro 11 - Maitighar Area",
+        "area": "Shahid Gate"
+    },
+    {
+        "city": "Kathmandu Metro 11 - Maitighar Area",
+        "area": "Thapathali"
+    },
+    {
+        "city": "Kathmandu Metro 11 - Maitighar Area",
+        "area": "Tripureshwor"
+    },
+    {
+        "city": "Kathmandu Metro 12 - Teku Area",
+        "area": "Teku"
+    },
+    {
+        "city": "Kathmandu Metro 13 - Kalimati Area",
+        "area": "Bafal"
+    },
+    {
+        "city": "Kathmandu Metro 13 - Kalimati Area",
+        "area": "Kalimati"
+    },
+    {
+        "city": "Kathmandu Metro 13 - Kalimati Area",
+        "area": "Soalteemode"
+    },
+    {
+        "city": "Kathmandu Metro 13 - Kalimati Area",
+        "area": "Tahachal"
+    },
+    {
+        "city": "Kathmandu Metro 13 - Kalimati Area",
+        "area": "Tankeshwor"
+    },
+    {
+        "city": "Kathmandu Metro 14 - Kuleshwor Area",
+        "area": "Balkhu"
+    },
+    {
+        "city": "Kathmandu Metro 14 - Kuleshwor Area",
+        "area": "Kalanki Chowk"
+    },
+    {
+        "city": "Kathmandu Metro 14 - Kuleshwor Area",
+        "area": "Kuleshwor"
+    },
+    {
+        "city": "Kathmandu Metro 14 - Kuleshwor Area",
+        "area": "Ravi Bhawan"
+    },
+    {
+        "city": "Kathmandu Metro 15 - Swayambhu Area",
+        "area": "Bahiti"
+    },
+    {
+        "city": "Kathmandu Metro 15 - Swayambhu Area",
+        "area": "Bijeshwori"
+    },
+    {
+        "city": "Kathmandu Metro 15 - Swayambhu Area",
+        "area": "Chhauni"
+    },
+    {
+        "city": "Kathmandu Metro 15 - Swayambhu Area",
+        "area": "Dallu"
+    },
+    {
+        "city": "Kathmandu Metro 15 - Swayambhu Area",
+        "area": "Kimdol"
+    },
+    {
+        "city": "Kathmandu Metro 15 - Swayambhu Area",
+        "area": "Sobhabhagawati"
+    },
+    {
+        "city": "Kathmandu Metro 15 - Swayambhu Area",
+        "area": "Swayambhu - Bhuikhel"
+    },
+    {
+        "city": "Kathmandu Metro 16 - Nayabazar Area",
+        "area": "Balaju - Bypass"
+    },
+    {
+        "city": "Kathmandu Metro 16 - Nayabazar Area",
+        "area": "Balaju Chauki"
+    },
+    {
+        "city": "Kathmandu Metro 16 - Nayabazar Area",
+        "area": "Balaju Chowk"
+    },
+    {
+        "city": "Kathmandu Metro 16 - Nayabazar Area",
+        "area": "Balaju - Machha Pokhari"
+    },
+    {
+        "city": "Kathmandu Metro 16 - Nayabazar Area",
+        "area": "Banasthali"
+    },
+    {
+        "city": "Kathmandu Metro 16 - Nayabazar Area",
+        "area": "Banasthali Dhungedhara"
+    },
+    {
+        "city": "Kathmandu Metro 16 - Nayabazar Area",
+        "area": "Kaldhara"
+    },
+    {
+        "city": "Kathmandu Metro 16 - Nayabazar Area",
+        "area": "Khusibu"
+    },
+    {
+        "city": "Kathmandu Metro 16 - Nayabazar Area",
+        "area": "Paknajol"
+    },
+    {
+        "city": "Kathmandu Metro 16 - Nayabazar Area",
+        "area": "People's Dental Campus Area"
+    },
+    {
+        "city": "Kathmandu Metro 16 - Nayabazar Area",
+        "area": "Sorhakhutte"
+    },
+    {
+        "city": "Kathmandu Metro 17 - Chhetrapati Area",
+        "area": "Chhetrapati"
+    },
+    {
+        "city": "Kathmandu Metro 17 - Chhetrapati Area",
+        "area": "Dhalko"
+    },
+    {
+        "city": "Kathmandu Metro 17 - Chhetrapati Area",
+        "area": "Dhobichaur"
+    },
+    {
+        "city": "Kathmandu Metro 18 - Raktakali Area",
+        "area": "Bhurungkhel"
+    },
+    {
+        "city": "Kathmandu Metro 18 - Raktakali Area",
+        "area": "Raktakali"
+    },
+    {
+        "city": "Kathmandu Metro 19 - Hanumandhoka Area",
+        "area": "Hanumandhoka"
+    },
+    {
+        "city": "Kathmandu Metro 19 - Hanumandhoka Area",
+        "area": "Tamsipakha"
+    },
+    {
+        "city": "Kathmandu Metro 1 - Naxal Area",
+        "area": "Durbarmarg"
+    },
+    {
+        "city": "Kathmandu Metro 1 - Naxal Area",
+        "area": "Hattisar Area"
+    },
+    {
+        "city": "Kathmandu Metro 1 - Naxal Area",
+        "area": "Jamal"
+    },
+    {
+        "city": "Kathmandu Metro 1 - Naxal Area",
+        "area": "Kamal Pokhari Area"
+    },
+    {
+        "city": "Kathmandu Metro 1 - Naxal Area",
+        "area": "Kantipath"
+    },
+    {
+        "city": "Kathmandu Metro 1 - Naxal Area",
+        "area": "Naxal Bhagwati Bahal Area"
+    },
+    {
+        "city": "Kathmandu Metro 1 - Naxal Area",
+        "area": "Naxal Narayan Chour"
+    },
+    {
+        "city": "Kathmandu Metro 20 - Marutol Area",
+        "area": "Jaishidebal"
+    },
+    {
+        "city": "Kathmandu Metro 20 - Marutol Area",
+        "area": "Marutole"
+    },
+    {
+        "city": "Kathmandu Metro 21 - Lagantole Area",
+        "area": "Ikubahal"
+    },
+    {
+        "city": "Kathmandu Metro 21 - Lagantole Area",
+        "area": "Lagantole"
+    },
+    {
+        "city": "Kathmandu Metro 21 - Lagantole Area",
+        "area": "Tebahal"
+    },
+    {
+        "city": "Kathmandu Metro 22 - Newroad Area",
+        "area": "Dharmapath"
+    },
+    {
+        "city": "Kathmandu Metro 22 - Newroad Area",
+        "area": "Khichhapokhari"
+    },
+    {
+        "city": "Kathmandu Metro 22 - Newroad Area",
+        "area": "Newroad"
+    },
+    {
+        "city": "Kathmandu Metro 22 - Newroad Area",
+        "area": "Om Bahal Area"
+    },
+    {
+        "city": "Kathmandu Metro 22 - Newroad Area",
+        "area": "Sundhara"
+    },
+    {
+        "city": "Kathmandu Metro 23 - Basantapur Area",
+        "area": "Basantapur"
+    },
+    {
+        "city": "Kathmandu Metro 24 - Indrachowk Area",
+        "area": "Indrachowk"
+    },
+    {
+        "city": "Kathmandu Metro 24 - Indrachowk Area",
+        "area": "Naradevi"
+    },
+    {
+        "city": "Kathmandu Metro 25 - Ason Area",
+        "area": "Ason"
+    },
+    {
+        "city": "Kathmandu Metro 25 - Ason Area",
+        "area": "Kilagal"
+    },
+    {
+        "city": "Kathmandu Metro 25 - Ason Area",
+        "area": "Tengal"
+    },
+    {
+        "city": "Kathmandu Metro 26 - Samakhusi Area",
+        "area": "Gongabu Chowk"
+    },
+    {
+        "city": "Kathmandu Metro 26 - Samakhusi Area",
+        "area": "Kapurdhara"
+    },
+    {
+        "city": "Kathmandu Metro 26 - Samakhusi Area",
+        "area": "Mehpi"
+    },
+    {
+        "city": "Kathmandu Metro 26 - Samakhusi Area",
+        "area": "Mitra Nagar"
+    },
+    {
+        "city": "Kathmandu Metro 26 - Samakhusi Area",
+        "area": "Nayabus park"
+    },
+    {
+        "city": "Kathmandu Metro 26 - Samakhusi Area",
+        "area": "Ranibari"
+    },
+    {
+        "city": "Kathmandu Metro 26 - Samakhusi Area",
+        "area": "Samakhusi"
+    },
+    {
+        "city": "Kathmandu Metro 26 - Thamel Area",
+        "area": "Galkhopakha"
+    },
+    {
+        "city": "Kathmandu Metro 26 - Thamel Area",
+        "area": "Jyatha"
+    },
+    {
+        "city": "Kathmandu Metro 26 - Thamel Area",
+        "area": "Lainchaur"
+    },
+    {
+        "city": "Kathmandu Metro 26 - Thamel Area",
+        "area": "Thamel"
+    },
+    {
+        "city": "Kathmandu Metro 27 - Bhotahiti Area",
+        "area": "Bhotahiti"
+    },
+    {
+        "city": "Kathmandu Metro 27 - Bhotahiti Area",
+        "area": "Kamalakshi"
+    },
+    {
+        "city": "Kathmandu Metro 28 - Bagbazar Area",
+        "area": "Bagbazar"
+    },
+    {
+        "city": "Kathmandu Metro 28 - Bagbazar Area",
+        "area": "Bhrikutimandap"
+    },
+    {
+        "city": "Kathmandu Metro 28 - Bagbazar Area",
+        "area": "Ratnapark"
+    },
+    {
+        "city": "Kathmandu Metro 28 - Kamaladi Area",
+        "area": "Bir Hospital"
+    },
+    {
+        "city": "Kathmandu Metro 28 - Kamaladi Area",
+        "area": "Kamaladi"
+    },
+    {
+        "city": "Kathmandu Metro 28 - Kamaladi Area",
+        "area": "Tundikhel"
+    },
+    {
+        "city": "Kathmandu Metro 29 - Anamnagar Area",
+        "area": "Anamnagar"
+    },
+    {
+        "city": "Kathmandu Metro 29 - Anamnagar Area",
+        "area": "Ghattekulo"
+    },
+    {
+        "city": "Kathmandu Metro 29 - Anamnagar Area",
+        "area": "Singha Durbar"
+    },
+    {
+        "city": "Kathmandu Metro 29 - Putalisadak Area",
+        "area": "Bhaktapur Buspark"
+    },
+    {
+        "city": "Kathmandu Metro 29 - Putalisadak Area",
+        "area": "Exhibition Road"
+    },
+    {
+        "city": "Kathmandu Metro 29 - Putalisadak Area",
+        "area": "Newplaza Area"
+    },
+    {
+        "city": "Kathmandu Metro 29 - Putalisadak Area",
+        "area": "Putalisadak"
+    },
+    {
+        "city": "Kathmandu Metro 2 - Lazimpat Area",
+        "area": "Dhobichaur"
+    },
+    {
+        "city": "Kathmandu Metro 2 - Lazimpat Area",
+        "area": "Gairidhara"
+    },
+    {
+        "city": "Kathmandu Metro 2 - Lazimpat Area",
+        "area": "Lazimpat"
+    },
+    {
+        "city": "Kathmandu Metro 30 - Maitidevi  Area",
+        "area": "Dillibazar Pipalbot"
+    },
+    {
+        "city": "Kathmandu Metro 30 - Maitidevi  Area",
+        "area": "Gyaneshwor"
+    },
+    {
+        "city": "Kathmandu Metro 30 - Maitidevi  Area",
+        "area": "Maitidevi"
+    },
+    {
+        "city": "Kathmandu Metro 31 - Min Bhawan Area",
+        "area": "Aloknagar"
+    },
+    {
+        "city": "Kathmandu Metro 31 - Min Bhawan Area",
+        "area": "Bhimsengola"
+    },
+    {
+        "city": "Kathmandu Metro 31 - Min Bhawan Area",
+        "area": "Chhitij Nagar"
+    },
+    {
+        "city": "Kathmandu Metro 31 - Min Bhawan Area",
+        "area": "Katyani Chowk Area"
+    },
+    {
+        "city": "Kathmandu Metro 31 - Min Bhawan Area",
+        "area": "Milan Chowk Area"
+    },
+    {
+        "city": "Kathmandu Metro 31 - Min Bhawan Area",
+        "area": "Min Bhawan"
+    },
+    {
+        "city": "Kathmandu Metro 31 - Min Bhawan Area",
+        "area": "Shantinagar"
+    },
+    {
+        "city": "Kathmandu Metro 32 - Koteshwor Area",
+        "area": "Jadibuti Area"
+    },
+    {
+        "city": "Kathmandu Metro 32 - Koteshwor Area",
+        "area": "Kandaghari"
+    },
+    {
+        "city": "Kathmandu Metro 32 - Koteshwor Area",
+        "area": "Koteshwor Chowk"
+    },
+    {
+        "city": "Kathmandu Metro 32 - Koteshwor Area",
+        "area": "Mahadevsthan"
+    },
+    {
+        "city": "Kathmandu Metro 32 - Koteshwor Area",
+        "area": "Narephat"
+    },
+    {
+        "city": "Kathmandu Metro 32 - Koteshwor Area",
+        "area": "Pepsicola Area"
+    },
+    {
+        "city": "Kathmandu Metro 32 - Tinkune Area",
+        "area": "Subidhanagar"
+    },
+    {
+        "city": "Kathmandu Metro 32 - Tinkune Area",
+        "area": "Tinkune"
+    },
+    {
+        "city": "Kathmandu Metro 3 - Baluwatar Area",
+        "area": "Baluwatar"
+    },
+    {
+        "city": "Kathmandu Metro 3 - Baluwatar Area",
+        "area": "Lamtangin Marg"
+    },
+    {
+        "city": "Kathmandu Metro 3 - Baluwatar Area",
+        "area": "Pabitra Workshop Area"
+    },
+    {
+        "city": "Kathmandu Metro 3 - Baluwatar Area",
+        "area": "Panchakanya School Area"
+    },
+    {
+        "city": "Kathmandu Metro 3 - Baluwatar Area",
+        "area": "Panipokhari"
+    },
+    {
+        "city": "Kathmandu Metro 3 - Maharajgunj Area",
+        "area": "Basundhara inside ringroad area"
+    },
+    {
+        "city": "Kathmandu Metro 3 - Maharajgunj Area",
+        "area": "Narayan Gopal Chowk Area"
+    },
+    {
+        "city": "Kathmandu Metro 3 - Maharajgunj Area",
+        "area": "Teaching Hospital"
+    },
+    {
+        "city": "Kathmandu Metro 4 - Bishalnagar Area",
+        "area": "Bishalnagar"
+    },
+    {
+        "city": "Kathmandu Metro 4 - Bishalnagar Area",
+        "area": "Chandol"
+    },
+    {
+        "city": "Kathmandu Metro 4 - Bishalnagar Area",
+        "area": "Chapal Karkhana"
+    },
+    {
+        "city": "Kathmandu Metro 4 - Bishalnagar Area",
+        "area": "Chun Devi"
+    },
+    {
+        "city": "Kathmandu Metro 4 - Bishalnagar Area",
+        "area": "Dhumbarahi Chowk"
+    },
+    {
+        "city": "Kathmandu Metro 4 - Bishalnagar Area",
+        "area": "Dhumbarahi Pipalbot"
+    },
+    {
+        "city": "Kathmandu Metro 4 - Bishalnagar Area",
+        "area": "Sukedhara"
+    },
+    {
+        "city": "Kathmandu Metro 5 - Tangal Area",
+        "area": "Bhatbhateni"
+    },
+    {
+        "city": "Kathmandu Metro 5 - Tangal Area",
+        "area": "Handigaun"
+    },
+    {
+        "city": "Kathmandu Metro 5 - Tangal Area",
+        "area": "Maligaun"
+    },
+    {
+        "city": "Kathmandu Metro 5 - Tangal Area",
+        "area": "Sano Gaucharan"
+    },
+    {
+        "city": "Kathmandu Metro 5 - Tangal Area",
+        "area": "Tangal"
+    },
+    {
+        "city": "Kathmandu Metro 7 - Chabahil Area",
+        "area": "Chabahil Chowk"
+    },
+    {
+        "city": "Kathmandu Metro 7 - Chabahil Area",
+        "area": "Chuchepati"
+    },
+    {
+        "city": "Kathmandu Metro 7 - Chabahil Area",
+        "area": "Gangahiti"
+    },
+    {
+        "city": "Kathmandu Metro 7 - Chabahil Area",
+        "area": "Gaurighat"
+    },
+    {
+        "city": "Kathmandu Metro 7 - Chabahil Area",
+        "area": "Gopikrishna Hall Area"
+    },
+    {
+        "city": "Kathmandu Metro 7 - Chabahil Area",
+        "area": "Kalopul"
+    },
+    {
+        "city": "Kathmandu Metro 7 - Chabahil Area",
+        "area": "Kumaristhan"
+    },
+    {
+        "city": "Kathmandu Metro 7 - Chabahil Area",
+        "area": "Maijubahal"
+    },
+    {
+        "city": "Kathmandu Metro 7 - Chabahil Area",
+        "area": "Mitrapark"
+    },
+    {
+        "city": "Kathmandu Metro 7 - Chabahil Area",
+        "area": "Siphal"
+    },
+    {
+        "city": "Kathmandu Metro 8 - Gaushala Area",
+        "area": "Gaushala"
+    },
+    {
+        "city": "Kathmandu Metro 8 - Gaushala Area",
+        "area": "Jayabageshwori"
+    },
+    {
+        "city": "Kathmandu Metro 8 - Gaushala Area",
+        "area": "Pashupathinath"
+    },
+    {
+        "city": "Kathmandu Metro 8 - Gaushala Area",
+        "area": "Pingalasthan"
+    },
+    {
+        "city": "Kathmandu Metro 8 - Gaushala Area",
+        "area": "Ram Mandir"
+    },
+    {
+        "city": "Kathmandu Metro 9 - Sinamangal Area",
+        "area": "Airport"
+    },
+    {
+        "city": "Kathmandu Metro 9 - Sinamangal Area",
+        "area": "Battisputali"
+    },
+    {
+        "city": "Kathmandu Metro 9 - Sinamangal Area",
+        "area": "Gaurigaun"
+    },
+    {
+        "city": "Kathmandu Metro 9 - Sinamangal Area",
+        "area": "Old Baneshwor"
+    },
+    {
+        "city": "Kathmandu Metro 9 - Sinamangal Area",
+        "area": "Sinamangal"
+    },
+    {
+        "city": "Kathmandu Metro 9 - Sinamangal Area",
+        "area": "Tilganga"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Bouddha Area - Dibya Nagar"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Bouddha Area - Kumarigal"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Bouddha Area - Nayabasti"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Boudha Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Boudha Area - Fulbari"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Boudha Area - Tushal"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Budhanilkantha - Baluwakhani"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Budhanilkantha - Basbari Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Budhanilkantha - Budhanilkantha Nayapul"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Budhanilkantha - Chapali Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Budhanilkantha - Chunikhel Buspark Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Budhanilkantha - Golfutar Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Budhanilkantha -Hatiigauda Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Budhanilkantha - Kapan Akasedhara"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Budhanilkantha - Kapan Chauki Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Budhanilkantha - Kapan Saraswotinagar"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Budhanilkantha - Mandikhatar Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Budhanilkantha - Narayanthan Temple Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Budhanilkantha - Paiyatar Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Budhanilkantha - Pasikot Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Chandragiri - Balambu Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Chandragiri - Dahachowk"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Chandragiri - Gurjudhara Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Chandragiri - Kalanki Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Chandragiri - Khadka Gaun"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Chandragiri - Macchegaun"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Chandragiri - Matatirtha Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Chandragiri - Nagdhunga"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Chandragiri - Satungal Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Chandragiri - Thankot Checkpost Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Chandragiri - Tinthana Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Dakshinkali - Chalnakhel"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Dakshinkali - Pharping"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Gokarneshwar - Arubari"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Gokarneshwar - Attarkhel Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Gokarneshwar - Jorpati Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Gokarneshwar - Jorpati Narayantar"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Gokarneshwar - Jorpati Nayabasti"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Gokarneshwar - Makalbari"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Gokarneshwar - Makalbari Dakshindhoka"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Gokarneshwar - Sundarijal"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Gokarneshwar - Tinchuli"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Gokarneshwor - Nayapati"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Gokarneshwor Temple Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Kageshwori Manohara - Gothatar Tej Binayak Chowk"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Kageshwori Manohara - Green Hill City Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Kageshwori Manohara - Mulpani"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Kageshwori Manohara - Thali"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Kirtipur - Buspark Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Kirtipur - Chovar"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Kirtipur - Nayabazar Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Kirtipur - Panga Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Kirtipur - Taudaha"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Kirtipur - TU Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Kirtipur - Tyanglaphat Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Nagarjun - Banasthali Kharibot Chowk"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Nagarjun - Bhimdunga"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Nagarjun - Boharatar Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Nagarjun - Buddha Park Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Nagarjun - Dadapauwa Ramkot Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Nagarjun - Naya Naikap"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Nagarjun - Nursery chowk"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Nagarjun - Padma Colony"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Nagarjun - Purano Naikap"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Nagarjun - Radhakrishna mandir"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Nagarjun - Sano Bharyang Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Nagarjun - Saranpur"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Nagarjun - Sitapaila Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Nagarjun - Soltee Dobato Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Nagarjun - Syuchatar"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Nagarjun - Thulo Bharyang Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Nagarjun - Thulo Bharyang Buddha Chowk"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Nagarjun - Thulo Bharyang Gairigaun"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Nagarjun - Thulo Bharyang Namgel Chowk"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Nagarjun - Thulo Bharyang Tindhara"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Nagarjun - White Gumba"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Shankharapur - Salambutar"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Shankharapur - Sankhu"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Tarakeshwor - Dandagaun Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Tarakeshwor - Dharmasthali"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Tarakeshwor - Goldhunga Nagarjun School Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Tarakeshwor - Hiledol Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Tarakeshwor - Jarankhu Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Tarakeshwor - Kavresthali Buspark Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Tarakeshwor - Lolang Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Tarakeshwor - Manamaiju Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Tarakeshwor - Nepaltar Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Tarakeshwor - Phutung Bus Stop Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Tarakeshwor - Purano Gueshwari Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Tokha - Baniyatar"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Tokha - Basundhara Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Tokha - Bhatke Ko Pool"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Tokha - Bhutkhel"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Tokha - Dhapasi Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Tokha - Gongabu Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Tokha - Grande Area"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Tokha - Jalpachowk"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Tokha - Suryadarshan Height"
+    },
+    {
+        "city": "Kathmandu Outside Ring Road",
+        "area": "Tokha - Tokha Ganeshthan Area"
+    },
+    {
+        "city": "Khairehani",
+        "area": "Jyamire"
+    },
+    {
+        "city": "Khairehani",
+        "area": "Parsa Chaubiskoti"
+    },
+    {
+        "city": "Khairehani",
+        "area": "Purano Parsa"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Bakhundole Area"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Jwagal Area"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Ward 10 - Chakupat Area"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Ward 11 - Banglamukhi Area"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Ward 12 - Thaina Area"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Ward 14 - Kusunti Area"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Ward 15 - Lagankhel Area"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Ward 15 - Satdobato Area"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Ward 16 - Mangalbazar Area"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Ward 17 - Gwarko Area"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Ward 19 - Macchindrabahal Area"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Ward 1 - Kupandol Area"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Ward 20 - Patandhoka Area"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Ward 2 - Jhamsikhel Area"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Ward 2 - Kalopul Area"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Ward 2 - Sanepa Area"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Ward 3 - Pulchowk Area"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Ward 4 - Jawalakhel Area"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Ward 5 - Kumaripati Area"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Ward 5 - Patan Hospital Area"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Ward 6 - Kanibahal Area"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Ward 7 - Sundhara Area"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Ward 8 - Guitole Area"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Ward 9 - Balkumari Area"
+    },
+    {
+        "city": "Lalitpur Inside Ring Road",
+        "area": "Ward 9 - Chayasal Area"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Bagdole Area"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Godawari - Bajrabarahi Area"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Godawari - Botanical Garden Area"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Godawari - Chapagaun Buspark Area"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Godawari - Jharuwarasi"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Godawari - Thaiba"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Godawari - Thecho"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Karyabinayak - Chhampi"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Karyabinayak - Chunikhel"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Karyabinayak - Dhaichhap"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Karyabinayak - Khokana"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "KaryaBinayak - Tikabhairabh"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Lalitpur - Bhaisepati Area"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Lalitpur - Bungamati Area"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Lalitpur - Chokhel Area"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Lalitpur - Dhapakhel Area"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Lalitpur - Dholahiti"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Lalitpur - Harisiddhi Patan Area"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Lalitpur - Imadole Area"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Lalitpur - Khumaltar Area"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Lalitpur - Loha Chowk"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Lalitpur - Nakhipot Area"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Lalitpur - Nakhipot Kantipur Colony"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Lalitpur - Nakhu Area"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Lalitpur - Ranibu Area"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Lalitpur - Sanepa Indrayani Mandir"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Lalitpur - Sunakoti Area"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Mahalaxmi - Changathali"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Mahalaxmi - Lamatar Bus Stop Area"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Mahalaxmi - Lubhu"
+    },
+    {
+        "city": "Lalitpur Outside Ring Road",
+        "area": "Mahalaxmi - Tikathali"
+    },
+    {
+        "city": "Nilkantha - Dhading",
+        "area": "Bich Bazar"
+    },
+    {
+        "city": "Nilkantha - Dhading",
+        "area": "Cp Chowk"
+    },
+    {
+        "city": "Nilkantha - Dhading",
+        "area": "Maale Bagar"
+    },
+    {
+        "city": "Nilkantha - Dhading",
+        "area": "Nilkantha School Area"
+    },
+    {
+        "city": "Nilkantha - Dhading",
+        "area": "Pahare Chautara"
+    },
+    {
+        "city": "Nilkantha - Dhading",
+        "area": "Puchhar Bazar"
+    },
+    {
+        "city": "Nilkantha - Dhading",
+        "area": "Simle Gairi"
+    },
+    {
+        "city": "Nilkantha - Dhading",
+        "area": "Siran Bazar"
+    },
+    {
+        "city": "Panauti",
+        "area": "Bhandari Gaun"
+    },
+    {
+        "city": "Panauti",
+        "area": "Kharibot"
+    },
+    {
+        "city": "Panauti",
+        "area": "Khopasi Hydropower Reservoir Area"
+    },
+    {
+        "city": "Panauti",
+        "area": "Panauti Municipality office Area"
+    },
+    {
+        "city": "Panauti",
+        "area": "Panauti Museum area"
+    },
+    {
+        "city": "Panauti",
+        "area": "Wolachhen Bagaicha Area"
+    },
+    {
+        "city": "Panchkhal",
+        "area": "36 Kilo Area"
+    },
+    {
+        "city": "Panchkhal",
+        "area": "Aapghari"
+    },
+    {
+        "city": "Panchkhal",
+        "area": "Dhulikhel Zipline Area"
+    },
+    {
+        "city": "Panchkhal",
+        "area": "Dulalthok"
+    },
+    {
+        "city": "Panchkhal",
+        "area": "Keraghari"
+    },
+    {
+        "city": "Panchkhal",
+        "area": "Lamidanda"
+    },
+    {
+        "city": "Panchkhal",
+        "area": "Panchkhal Municipality Area"
+    },
+    {
+        "city": "Panchkhal",
+        "area": "Shree Ram Pati"
+    },
+    {
+        "city": "Panchkhal",
+        "area": "Tamaghat Chowk"
+    },
+    {
+        "city": "Panchkhal",
+        "area": "Zero Kilo"
+    },
+    {
+        "city": "Rapti",
+        "area": "Bhandara"
+    },
+    {
+        "city": "Rapti",
+        "area": "Khurkhure"
+    },
+    {
+        "city": "Ratnanagar",
+        "area": "Bakular"
+    },
+    {
+        "city": "Ratnanagar",
+        "area": "Chitrasari Area"
+    },
+    {
+        "city": "Ratnanagar",
+        "area": "Hattichowk Area"
+    },
+    {
+        "city": "Ratnanagar",
+        "area": "Sauraha Chowk"
+    },
+    {
+        "city": "Ratnanagar",
+        "area": "Tadi Bazar"
+    },
+    {
+        "city": "Sindhuli-Kamalamai",
+        "area": "Army Camp Gate"
+    },
+    {
+        "city": "Sindhuli-Kamalamai",
+        "area": "Campus Stop Area"
+    },
+    {
+        "city": "Sindhuli-Kamalamai",
+        "area": "Dhungrebaas"
+    },
+    {
+        "city": "Sindhuli-Kamalamai",
+        "area": "Dhura Bazaar"
+    },
+    {
+        "city": "Sindhuli-Kamalamai",
+        "area": "Fm Marga"
+    },
+    {
+        "city": "Sindhuli-Kamalamai",
+        "area": "Laxman Chowk"
+    },
+    {
+        "city": "Sindhuli-Kamalamai",
+        "area": "Milan Chowk"
+    },
+    {
+        "city": "Sindhuli-Kamalamai",
+        "area": "Siddha Baba Chowk"
+    },
+    {
+        "city": "Sindhuli-Kamalamai",
+        "area": "Sindhuli Bus Park Area"
+    },
+    {
+        "city": "Sindhuli-Kamalamai",
+        "area": "Sindhuli Haat Bazaar"
+    },
+    {
+        "city": "Baglung Bazaar",
+        "area": "Jeep Park"
+    },
+    {
+        "city": "Baglung Bazaar",
+        "area": "Lali Gurans Chowk"
+    },
+    {
+        "city": "Baglung Bazaar",
+        "area": "Tiger Chowk"
+    },
+    {
+        "city": "Baglung Bazaar",
+        "area": "Traffic Chowk"
+    },
+    {
+        "city": "Baglung Bazaar",
+        "area": "Upallachaur"
+    },
+    {
+        "city": "Baglung Bazaar",
+        "area": "Yatyat Karyalaya Area"
+    },
+    {
+        "city": "Beni",
+        "area": "Birendra Chowk"
+    },
+    {
+        "city": "Beni",
+        "area": "Campus Chowk"
+    },
+    {
+        "city": "Beni",
+        "area": "Hospital Chowk"
+    },
+    {
+        "city": "Beni",
+        "area": "Kali Pool Buspark"
+    },
+    {
+        "city": "Beni",
+        "area": "New Road Area"
+    },
+    {
+        "city": "Bhimad",
+        "area": "Bhimad Bazaar"
+    },
+    {
+        "city": "Bhimad",
+        "area": "Male Bagar Bazaar"
+    },
+    {
+        "city": "Bhimad",
+        "area": "Purano Bazaar"
+    },
+    {
+        "city": "Bhimad",
+        "area": "Tanahu Technical School Area"
+    },
+    {
+        "city": "Damauli",
+        "area": "Aadikavi Bhanubhakta Campus Area"
+    },
+    {
+        "city": "Damauli",
+        "area": "Bhadgau"
+    },
+    {
+        "city": "Damauli",
+        "area": "Chapaghat"
+    },
+    {
+        "city": "Damauli",
+        "area": "Damauli Bazar"
+    },
+    {
+        "city": "Damauli",
+        "area": "Damauli Bus Station Area"
+    },
+    {
+        "city": "Damauli",
+        "area": "Damauli College"
+    },
+    {
+        "city": "Damauli",
+        "area": "Dihi Gaun"
+    },
+    {
+        "city": "Damauli",
+        "area": "District Hospital Area"
+    },
+    {
+        "city": "Damauli",
+        "area": "Immanuel Church Area"
+    },
+    {
+        "city": "Damauli",
+        "area": "Patan"
+    },
+    {
+        "city": "Damauli",
+        "area": "Vorletar Chowk"
+    },
+    {
+        "city": "Devchuli",
+        "area": "Daldale"
+    },
+    {
+        "city": "Devchuli",
+        "area": "Dharapani Bazaar"
+    },
+    {
+        "city": "Devchuli",
+        "area": "Milan Chowk"
+    },
+    {
+        "city": "Devchuli",
+        "area": "Pragatinagar"
+    },
+    {
+        "city": "Devchuli",
+        "area": "Rajahar Bazaar"
+    },
+    {
+        "city": "Devchuli",
+        "area": "Sashwat Dham Area"
+    },
+    {
+        "city": "Gaindakot",
+        "area": "Congress Chowk"
+    },
+    {
+        "city": "Gaindakot",
+        "area": "Gaindakot Municipality Office Area"
+    },
+    {
+        "city": "Gaindakot",
+        "area": "Ganesh Mandir Area"
+    },
+    {
+        "city": "Gaindakot",
+        "area": "Harihar Mandir"
+    },
+    {
+        "city": "Gaindakot",
+        "area": "Harkapur Area"
+    },
+    {
+        "city": "Gaindakot",
+        "area": "Kali Gandaki Bus Stop Area"
+    },
+    {
+        "city": "Gaindakot",
+        "area": "Kalika Mandir Area"
+    },
+    {
+        "city": "Gaindakot",
+        "area": "Thumsi Area"
+    },
+    {
+        "city": "Gorkha Bazaar",
+        "area": "District Hospital Chowk"
+    },
+    {
+        "city": "Gorkha Bazaar",
+        "area": "Haramtari Chowk"
+    },
+    {
+        "city": "Gorkha Bazaar",
+        "area": "Patechaur"
+    },
+    {
+        "city": "Gorkha Bazaar",
+        "area": "Petrol Pump Area"
+    },
+    {
+        "city": "Gorkha Bazaar",
+        "area": "Purano Buspark"
+    },
+    {
+        "city": "Kawasoti",
+        "area": "Bishnunagar"
+    },
+    {
+        "city": "Kawasoti",
+        "area": "Danda"
+    },
+    {
+        "city": "Kawasoti",
+        "area": "Gyanodaya Chowk"
+    },
+    {
+        "city": "Kawasoti",
+        "area": "Panchaknya Chowk"
+    },
+    {
+        "city": "Kawasoti",
+        "area": "Thakali Chowk"
+    },
+    {
+        "city": "Kawasoti",
+        "area": "Thana Chowk"
+    },
+    {
+        "city": "Kushma",
+        "area": "Bhandari Tole"
+    },
+    {
+        "city": "Kushma",
+        "area": "Bunjee Side"
+    },
+    {
+        "city": "Kushma",
+        "area": "Jilla Prahari Karyala Chowk"
+    },
+    {
+        "city": "Kushma",
+        "area": "Khareha"
+    },
+    {
+        "city": "Kushma",
+        "area": "Sasatra Camp"
+    },
+    {
+        "city": "Kushma",
+        "area": "Shivalaya Chowk"
+    },
+    {
+        "city": "Lekhnath",
+        "area": "Arghau Chowk"
+    },
+    {
+        "city": "Lekhnath",
+        "area": "Budibazar Chowk"
+    },
+    {
+        "city": "Lekhnath",
+        "area": "Sishuwa chowk"
+    },
+    {
+        "city": "Lekhnath",
+        "area": "Talchowk"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Amarsingh Chowk Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Bagar Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Baglung Buspark Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Baidam Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Barpatan Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Birauta Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Birauta Chowk Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Buspark Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Chauthe Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Chhinedada Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Chipledhunga Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Davis Falls Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Deep Housing Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Fulbaari Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Gandaki Hospital Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Hallan Chowk Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Hemja - Milan Chowk"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Himalayan Museum Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Jogimari"
+    },
+    {
+        "city": "Pokhara",
+        "area": "kahun Khola Buspark Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Kajipokhari Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Khaltemasina Buspark Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Lamachaur Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Lovely danda"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Mahatgauda Buspark Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Mahendra Gufa Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Mahendrapul Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Malepatan Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Masbar Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Matepani Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Miyapatan Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Nadipur Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Nayabazar Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Newroad Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Old Airport Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Pokhara International Airport Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Prashyang Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Prithvi Chowk"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Rambazaar Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Ramghat Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Ratna Chowk Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Sedi Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Simalchaur Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Tudikhel Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Vijaypur Barrack Area"
+    },
+    {
+        "city": "Pokhara",
+        "area": "Yamdi Pool"
+    },
+    {
+        "city": "Putalibazar",
+        "area": "Badkhola Chowk"
+    },
+    {
+        "city": "Putalibazar",
+        "area": "Shahid Chowk"
+    },
+    {
+        "city": "Putalibazar",
+        "area": "Traffic Chowk"
+    },
+    {
+        "city": "Shuklagandaki",
+        "area": "Belchautara"
+    },
+    {
+        "city": "Shuklagandaki",
+        "area": "Dhor Phedi Area"
+    },
+    {
+        "city": "Shuklagandaki",
+        "area": "Dulegaunda Bazaar"
+    },
+    {
+        "city": "Shuklagandaki",
+        "area": "Khairenitar Bazar"
+    },
+    {
+        "city": "Shuklagandaki",
+        "area": "Nayapul"
+    },
+    {
+        "city": "Shuklagandaki",
+        "area": "Saulibazzar"
+    },
+    {
+        "city": "Shuklagandaki",
+        "area": "Surya Nepal Factory Area"
+    },
+    {
+        "city": "Sundarbazar",
+        "area": "Khatrithati"
+    },
+    {
+        "city": "Sundarbazar",
+        "area": "Lamjung Campus Area"
+    },
+    {
+        "city": "Sundarbazar",
+        "area": "Milan Chowk"
+    },
+    {
+        "city": "Sundarbazar",
+        "area": "Suidibar Bus Park Area"
+    },
+    {
+        "city": "Waling",
+        "area": "Bhakunde Chowk"
+    },
+    {
+        "city": "Waling",
+        "area": "Bhakunde Covered Hall Area"
+    },
+    {
+        "city": "Waling",
+        "area": "Buddha Tole"
+    },
+    {
+        "city": "Waling",
+        "area": "Shiva Oil Area"
+    },
+    {
+        "city": "Waling",
+        "area": "Waling Bus Park Area"
+    },
+    {
+        "city": "Waling",
+        "area": "Waling Multiple Campus Area"
+    },
+    {
+        "city": "Waling",
+        "area": "WCCI Chowk"
+    },
+    {
+        "city": "Arjundhara",
+        "area": "Arjundhara Municipality Office Area"
+    },
+    {
+        "city": "Arjundhara",
+        "area": "Bhaisabadi"
+    },
+    {
+        "city": "Arjundhara",
+        "area": "Laxmipur Bus Stop Area"
+    },
+    {
+        "city": "Arjundhara",
+        "area": "Post Office Area"
+    },
+    {
+        "city": "Belbari",
+        "area": "Aadarsha Boarding School Area"
+    },
+    {
+        "city": "Belbari",
+        "area": "Bazaar Line"
+    },
+    {
+        "city": "Belbari",
+        "area": "Belbari Health Post Area"
+    },
+    {
+        "city": "Belbari",
+        "area": "Belbari Multiple Campus Area"
+    },
+    {
+        "city": "Belbari",
+        "area": "Belbari Paschhim Bus Park Area"
+    },
+    {
+        "city": "Belbari",
+        "area": "Betana Wetland"
+    },
+    {
+        "city": "Belbari",
+        "area": "Bhaunne Bazaar"
+    },
+    {
+        "city": "Belbari",
+        "area": "Dangihat Rangashala Area"
+    },
+    {
+        "city": "Belbari",
+        "area": "Laxmi Marga Chowk"
+    },
+    {
+        "city": "Belbari",
+        "area": "Malpot Line"
+    },
+    {
+        "city": "Belbari",
+        "area": "Sahakari Tole"
+    },
+    {
+        "city": "Bhadrapur",
+        "area": "Bhadrapur Buspark Area"
+    },
+    {
+        "city": "Bhadrapur",
+        "area": "Campus Mode Area"
+    },
+    {
+        "city": "Bhadrapur",
+        "area": "Dukhi Tole Area"
+    },
+    {
+        "city": "Bhadrapur",
+        "area": "Giri Chowk Area"
+    },
+    {
+        "city": "Bhadrapur",
+        "area": "Kirat Colony Area"
+    },
+    {
+        "city": "Bhadrapur",
+        "area": "Mechi Hospital Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Roadcess/Koshi Project Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Aarti Strip Factory Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "B.FM. Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Bargacchi Chowk Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Bhirkuti Chowk Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Buddha Chowk Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Campus Road Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "DPS School Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Haat Khola Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Hospital Chowk"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Ikrahi Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Jaljala Chowk Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Janpathtole Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Jhorahat Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Kanchanbari Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Katahari Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Keshaliya Rampur"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Kharji Kohobara"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Madumara Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Mahendra Chowk Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Maheshpur Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Maisthan Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Mangadh Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Nayabazar Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Nemuwa"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Nobel Hospital Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Oil Nigam Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Panchali Tole Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Pichhara Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Pokhariya School Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Puset Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Pushpalal Chowk Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Rajbanshi Chowk"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Rangashala Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Rani Bank Road Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Rani Border Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Rani Nahar Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Shanihat Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Shankarpur Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Siddhartha Chowk Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Sikshya Sadan School Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Tankisinuwari Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Thulo Mill Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Tinpaini Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Tintolia - Shanti Chowk Area"
+    },
+    {
+        "city": "Biratnagar",
+        "area": "Traffic Chowk"
+    },
+    {
+        "city": "Birtamod",
+        "area": "Atithi Sadan Area"
+    },
+    {
+        "city": "Birtamod",
+        "area": "Beldangi Chowk Area"
+    },
+    {
+        "city": "Birtamod",
+        "area": "Bhadrapur Road Area"
+    },
+    {
+        "city": "Birtamod",
+        "area": "Bhagwan Chowk"
+    },
+    {
+        "city": "Birtamod",
+        "area": "Birtabazar Area"
+    },
+    {
+        "city": "Birtamod",
+        "area": "Birtamod Buspark Area"
+    },
+    {
+        "city": "Birtamod",
+        "area": "Buttabari Area"
+    },
+    {
+        "city": "Birtamod",
+        "area": "Charpane Area"
+    },
+    {
+        "city": "Birtamod",
+        "area": "Dharmakata Road Area"
+    },
+    {
+        "city": "Birtamod",
+        "area": "Garamuni Campus Area"
+    },
+    {
+        "city": "Birtamod",
+        "area": "Hanuman Central Area"
+    },
+    {
+        "city": "Birtamod",
+        "area": "Harkalal Marga Area"
+    },
+    {
+        "city": "Birtamod",
+        "area": "Heaven Water Park Area"
+    },
+    {
+        "city": "Birtamod",
+        "area": "Jatrubadi Chowk Area"
+    },
+    {
+        "city": "Birtamod",
+        "area": "Kankai Road Area"
+    },
+    {
+        "city": "Birtamod",
+        "area": "Mahananda Chowk"
+    },
+    {
+        "city": "Birtamod",
+        "area": "Mechi Eye Hospital Area"
+    },
+    {
+        "city": "Birtamod",
+        "area": "Meghabari Area"
+    },
+    {
+        "city": "Birtamod",
+        "area": "Pathivara Hall Area"
+    },
+    {
+        "city": "Birtamod",
+        "area": "Ramchowk Area"
+    },
+    {
+        "city": "Birtamod",
+        "area": "Shyaldangi Area"
+    },
+    {
+        "city": "Birtamod",
+        "area": "Staff Chowk"
+    },
+    {
+        "city": "Birtamod",
+        "area": "Trishuli Chowk Area"
+    },
+    {
+        "city": "Chandragadi",
+        "area": "Bhaire Chowk"
+    },
+    {
+        "city": "Chandragadi",
+        "area": "Chaitu Mandir Area"
+    },
+    {
+        "city": "Chandragadi",
+        "area": "Chandragadi Airport Area"
+    },
+    {
+        "city": "Chandragadi",
+        "area": "Devkota Chowk Area"
+    },
+    {
+        "city": "Chandragadi",
+        "area": "Dhanushmod Area"
+    },
+    {
+        "city": "Chandragadi",
+        "area": "Jagriti Nagar"
+    },
+    {
+        "city": "Chandragadi",
+        "area": "Kendramode Area"
+    },
+    {
+        "city": "Chandragadi",
+        "area": "Lekhnath Chowk Area"
+    },
+    {
+        "city": "Chandragadi",
+        "area": "Mahendra Park Area"
+    },
+    {
+        "city": "Damak",
+        "area": "Beldangi Area"
+    },
+    {
+        "city": "Damak",
+        "area": "Buddha Chowk Area"
+    },
+    {
+        "city": "Damak",
+        "area": "Damak Buspark Area"
+    },
+    {
+        "city": "Damak",
+        "area": "Damak Multiple Campus Area"
+    },
+    {
+        "city": "Damak",
+        "area": "Falgunanda Chowk Area"
+    },
+    {
+        "city": "Damak",
+        "area": "Gumaune Area"
+    },
+    {
+        "city": "Damak",
+        "area": "Havildar Chowk Area"
+    },
+    {
+        "city": "Damak",
+        "area": "Krishna Mandir Area"
+    },
+    {
+        "city": "Damak",
+        "area": "Makalu Tole Area"
+    },
+    {
+        "city": "Damak",
+        "area": "New Amda Hospital Area"
+    },
+    {
+        "city": "Damak",
+        "area": "Sangam Chowk Area"
+    },
+    {
+        "city": "Damak",
+        "area": "Shanti Chowk Area"
+    },
+    {
+        "city": "Damak",
+        "area": "Shanti Marga Area"
+    },
+    {
+        "city": "Dhankuta",
+        "area": "Adalat Road"
+    },
+    {
+        "city": "Dhankuta",
+        "area": "Dadagaun Football Ground"
+    },
+    {
+        "city": "Dhankuta",
+        "area": "Dhankuta Bus Park Area"
+    },
+    {
+        "city": "Dhankuta",
+        "area": "Dhankuta Multiple Campus Area"
+    },
+    {
+        "city": "Dhankuta",
+        "area": "Dhankuta Stadium"
+    },
+    {
+        "city": "Dhankuta",
+        "area": "Heli Pad Area"
+    },
+    {
+        "city": "Dhankuta",
+        "area": "Hile"
+    },
+    {
+        "city": "Dharan",
+        "area": "Bagarkot Area"
+    },
+    {
+        "city": "Dharan",
+        "area": "Bargachhi Area"
+    },
+    {
+        "city": "Dharan",
+        "area": "Bhanu Chowk Area"
+    },
+    {
+        "city": "Dharan",
+        "area": "Bhotepul Area"
+    },
+    {
+        "city": "Dharan",
+        "area": "Bijayapur Area"
+    },
+    {
+        "city": "Dharan",
+        "area": "BP Health Science Institute Area"
+    },
+    {
+        "city": "Dharan",
+        "area": "Chata Chowk Area"
+    },
+    {
+        "city": "Dharan",
+        "area": "Deshi line"
+    },
+    {
+        "city": "Dharan",
+        "area": "Dharan Railway Area"
+    },
+    {
+        "city": "Dharan",
+        "area": "Dharan Stadium Area"
+    },
+    {
+        "city": "Dharan",
+        "area": "Mangalbarey Area"
+    },
+    {
+        "city": "Dharan",
+        "area": "Phushre Area"
+    },
+    {
+        "city": "Dharan",
+        "area": "Purano Bazaar"
+    },
+    {
+        "city": "Dharan",
+        "area": "Putali line"
+    },
+    {
+        "city": "Dharan",
+        "area": "Shyam Chowk Area"
+    },
+    {
+        "city": "Dharan",
+        "area": "Tinkune Area"
+    },
+    {
+        "city": "Dharan",
+        "area": "Zero Point Area"
+    },
+    {
+        "city": "Duhabi",
+        "area": "Ball Statue"
+    },
+    {
+        "city": "Duhabi",
+        "area": "Duhabi Bus park area"
+    },
+    {
+        "city": "Duhabi",
+        "area": "Sonapur Bus Park area"
+    },
+    {
+        "city": "Gauradaha",
+        "area": "Beldangi Chowk"
+    },
+    {
+        "city": "Gauradaha",
+        "area": "Campus Mode"
+    },
+    {
+        "city": "Gauradaha",
+        "area": "Dhobiniya Chowk"
+    },
+    {
+        "city": "Gauradaha",
+        "area": "Dipu Chowk"
+    },
+    {
+        "city": "Gauradaha",
+        "area": "Gauradaha Bazaar"
+    },
+    {
+        "city": "Gauradaha",
+        "area": "Gauriganj Bazar"
+    },
+    {
+        "city": "Gauradaha",
+        "area": "Mechi Eye Hospital Area"
+    },
+    {
+        "city": "Gauradaha",
+        "area": "Milan Chowk"
+    },
+    {
+        "city": "Ilam",
+        "area": "Bhrikuti Chowk"
+    },
+    {
+        "city": "Ilam",
+        "area": "Fikkal"
+    },
+    {
+        "city": "Ilam",
+        "area": "Ilam Bazar Area"
+    },
+    {
+        "city": "Ilam",
+        "area": "Ilam Bus Park Area"
+    },
+    {
+        "city": "Ilam",
+        "area": "Ilam Municipality Area"
+    },
+    {
+        "city": "Ilam",
+        "area": "Ilam View Tower Area"
+    },
+    {
+        "city": "Ilam",
+        "area": "Kalinaag Mandir Area"
+    },
+    {
+        "city": "Ilam",
+        "area": "Kharel Dada"
+    },
+    {
+        "city": "Ilam",
+        "area": "Mahendra Ratna Multiple Campus Area"
+    },
+    {
+        "city": "Ilam",
+        "area": "Tilkeni Mod"
+    },
+    {
+        "city": "Inaruwa",
+        "area": "Bihibare hat bazar"
+    },
+    {
+        "city": "Inaruwa",
+        "area": "Inaruwa Bus stop area"
+    },
+    {
+        "city": "Inaruwa",
+        "area": "Inaruwa Hospital Area"
+    },
+    {
+        "city": "Inaruwa",
+        "area": "Jhumka"
+    },
+    {
+        "city": "Inaruwa",
+        "area": "Sakhuwagachhi"
+    },
+    {
+        "city": "Inaruwa",
+        "area": "Simpane Pragati Tole"
+    },
+    {
+        "city": "Itahari",
+        "area": "Army Headquarters Area"
+    },
+    {
+        "city": "Itahari",
+        "area": "Balgram Area"
+    },
+    {
+        "city": "Itahari",
+        "area": "Bhetghat Chowk"
+    },
+    {
+        "city": "Itahari",
+        "area": "Gaisar Area"
+    },
+    {
+        "city": "Itahari",
+        "area": "Halgada Chowk Area"
+    },
+    {
+        "city": "Itahari",
+        "area": "Hatiya Line Area"
+    },
+    {
+        "city": "Itahari",
+        "area": "Itahari Buspark Area"
+    },
+    {
+        "city": "Itahari",
+        "area": "Jhumka City Area"
+    },
+    {
+        "city": "Itahari",
+        "area": "Khanar City Area"
+    },
+    {
+        "city": "Itahari",
+        "area": "Labipur Area"
+    },
+    {
+        "city": "Itahari",
+        "area": "Pakali Area"
+    },
+    {
+        "city": "Itahari",
+        "area": "Pandhare Tole Area"
+    },
+    {
+        "city": "Itahari",
+        "area": "Suvidha Nagar"
+    },
+    {
+        "city": "Itahari",
+        "area": "Swagat Tole Area"
+    },
+    {
+        "city": "Itahari",
+        "area": "Tarahara Area"
+    },
+    {
+        "city": "Itahari",
+        "area": "Tax Office Area"
+    },
+    {
+        "city": "Itahari",
+        "area": "Traffic Chowk Area"
+    },
+    {
+        "city": "Kakarbhitta",
+        "area": "Barmeli Tole Area"
+    },
+    {
+        "city": "Kakarbhitta",
+        "area": "Eye Hospital Area"
+    },
+    {
+        "city": "Kakarbhitta",
+        "area": "Kakarbhitta Buspark Area"
+    },
+    {
+        "city": "Kakarbhitta",
+        "area": "Kakarbhitta Customs Area"
+    },
+    {
+        "city": "Kakarbhitta",
+        "area": "Post Office Area"
+    },
+    {
+        "city": "Kakarbhitta",
+        "area": "Pragati Tole Area"
+    },
+    {
+        "city": "Kankai",
+        "area": "Champapur Playground Area"
+    },
+    {
+        "city": "Kankai",
+        "area": "Durgapur"
+    },
+    {
+        "city": "Kankai",
+        "area": "Jamunkhadi"
+    },
+    {
+        "city": "Kankai",
+        "area": "Kalisthan Chowk"
+    },
+    {
+        "city": "Kankai",
+        "area": "Kankai Multiple Campus Area"
+    },
+    {
+        "city": "Kankai",
+        "area": "Kankai Municipality Office Area"
+    },
+    {
+        "city": "Kankai",
+        "area": "Koti Hom Bus Park Area"
+    },
+    {
+        "city": "Kankai",
+        "area": "Sangam Tole"
+    },
+    {
+        "city": "Kankai",
+        "area": "Surunga Chowk"
+    },
+    {
+        "city": "Kankai",
+        "area": "Tulasibari Playground Area"
+    },
+    {
+        "city": "Letang Bhogateni",
+        "area": "Budhabare"
+    },
+    {
+        "city": "Letang Bhogateni",
+        "area": "Letang Bazaar"
+    },
+    {
+        "city": "Pathari-Shanischare",
+        "area": "Aitabare Chowk"
+    },
+    {
+        "city": "Pathari-Shanischare",
+        "area": "Bhutanese Refuse Camp Area"
+    },
+    {
+        "city": "Pathari-Shanischare",
+        "area": "Bokre Chowk"
+    },
+    {
+        "city": "Pathari-Shanischare",
+        "area": "Buddha Chowk"
+    },
+    {
+        "city": "Pathari-Shanischare",
+        "area": "Haatkhola Bazaar"
+    },
+    {
+        "city": "Pathari-Shanischare",
+        "area": "Hasandaha Bus Stop Area"
+    },
+    {
+        "city": "Pathari-Shanischare",
+        "area": "Pathari Bazaar"
+    },
+    {
+        "city": "Pathari-Shanischare",
+        "area": "Ratna Park Area"
+    },
+    {
+        "city": "Pathari-Shanischare",
+        "area": "Subedi Chowk"
+    },
+    {
+        "city": "Rangeli",
+        "area": "Aamtola Bazaar"
+    },
+    {
+        "city": "Rangeli",
+        "area": "Drabesha"
+    },
+    {
+        "city": "Rangeli",
+        "area": "Janata Multiple Campus Area"
+    },
+    {
+        "city": "Rangeli",
+        "area": "Rangeli Bazaar"
+    },
+    {
+        "city": "Rangeli",
+        "area": "Rangeli Hospital Area"
+    },
+    {
+        "city": "Ratuwamai",
+        "area": "Aambari Chowk"
+    },
+    {
+        "city": "Ratuwamai",
+        "area": "Damravitta Bazaar"
+    },
+    {
+        "city": "Ratuwamai",
+        "area": "Itahara Chowk"
+    },
+    {
+        "city": "Ratuwamai",
+        "area": "Sijuwa Chowk"
+    },
+    {
+        "city": "Ratuwamai",
+        "area": "Sombare Bazar"
+    },
+    {
+        "city": "Ratuwamai",
+        "area": "Tribhuwan Chowk"
+    },
+    {
+        "city": "Shivasatakshi",
+        "area": "Bangdada"
+    },
+    {
+        "city": "Shivasatakshi",
+        "area": "Campus Mode"
+    },
+    {
+        "city": "Shivasatakshi",
+        "area": "Dharampur Bus Park Area"
+    },
+    {
+        "city": "Shivasatakshi",
+        "area": "Dudamari Chowk"
+    },
+    {
+        "city": "Shivasatakshi",
+        "area": "Dudhe"
+    },
+    {
+        "city": "Shivasatakshi",
+        "area": "Haldar Chowk"
+    },
+    {
+        "city": "Shivasatakshi",
+        "area": "High School Chowk"
+    },
+    {
+        "city": "Shivasatakshi",
+        "area": "Jhil Jhile Bus Park Area"
+    },
+    {
+        "city": "Shivasatakshi",
+        "area": "Maidhar Chowk"
+    },
+    {
+        "city": "Shivasatakshi",
+        "area": "Nahar Chowk"
+    },
+    {
+        "city": "Sunawarshi",
+        "area": "Amardaha"
+    },
+    {
+        "city": "Sunawarshi",
+        "area": "Dainiya"
+    },
+    {
+        "city": "Sunawarshi",
+        "area": "Dohamana Pashu Bazar"
+    },
+    {
+        "city": "Sundar Haraincha",
+        "area": "Baliya Chowk"
+    },
+    {
+        "city": "Sundar Haraincha",
+        "area": "Birat Chowk Area"
+    },
+    {
+        "city": "Sundar Haraincha",
+        "area": "Dulari Chowk"
+    },
+    {
+        "city": "Sundar Haraincha",
+        "area": "Goth Gaun City Area"
+    },
+    {
+        "city": "Sundar Haraincha",
+        "area": "Khorsane"
+    },
+    {
+        "city": "Sundar Haraincha",
+        "area": "Khorsane Chowk"
+    },
+    {
+        "city": "Sundar Haraincha",
+        "area": "Lalvitti"
+    },
+    {
+        "city": "Triyuga",
+        "area": "Chuhade Chowk"
+    },
+    {
+        "city": "Triyuga",
+        "area": "Jaljale Bazaar"
+    },
+    {
+        "city": "Triyuga",
+        "area": "Main Chowk"
+    },
+    {
+        "city": "Triyuga",
+        "area": "Puma Chowk"
+    },
+    {
+        "city": "Triyuga",
+        "area": "Triyuga Janata Multiple Campus Area"
+    },
+    {
+        "city": "Triyuga",
+        "area": "Udayapur FM Area"
+    },
+    {
+        "city": "Triyuga",
+        "area": "Yalambar Tole"
+    },
+    {
+        "city": "Urlabari",
+        "area": "Aaitabare Area"
+    },
+    {
+        "city": "Urlabari",
+        "area": "Bargachhi Chowk Area"
+    },
+    {
+        "city": "Urlabari",
+        "area": "Durgapuri Area"
+    },
+    {
+        "city": "Urlabari",
+        "area": "Madhumalla Area"
+    },
+    {
+        "city": "Urlabari",
+        "area": "Mangalbare Area"
+    },
+    {
+        "city": "Banganga",
+        "area": "4 Number Chowk"
+    },
+    {
+        "city": "Banganga",
+        "area": "Bangain"
+    },
+    {
+        "city": "Banganga",
+        "area": "Bodegaun Chowk"
+    },
+    {
+        "city": "Banganga",
+        "area": "Chappar Gau"
+    },
+    {
+        "city": "Banganga",
+        "area": "Dhaneshpur"
+    },
+    {
+        "city": "Banganga",
+        "area": "Gajehada Bus Stop Area"
+    },
+    {
+        "city": "Banganga",
+        "area": "Jhanda"
+    },
+    {
+        "city": "Banganga",
+        "area": "Khane Pani Office Area"
+    },
+    {
+        "city": "Banganga",
+        "area": "Koili Bangai"
+    },
+    {
+        "city": "Banganga",
+        "area": "Manoharpur"
+    },
+    {
+        "city": "Banganga",
+        "area": "Motipur - Banganga"
+    },
+    {
+        "city": "Banganga",
+        "area": "Pipara Bazaar"
+    },
+    {
+        "city": "Banganga",
+        "area": "Supa Deurali Mandir - Banganga"
+    },
+    {
+        "city": "Bardaghat",
+        "area": "Bardaghat Bus Stop Area"
+    },
+    {
+        "city": "Bardaghat",
+        "area": "Basa Basahi Chowk"
+    },
+    {
+        "city": "Bardaghat",
+        "area": "Chisapani Hospital Area"
+    },
+    {
+        "city": "Bardaghat",
+        "area": "Mohini Cinema Hall Area"
+    },
+    {
+        "city": "Bardaghat",
+        "area": "Panchanagar"
+    },
+    {
+        "city": "Bardaghat",
+        "area": "Upahar Nagar Park Area"
+    },
+    {
+        "city": "Butwal",
+        "area": "Belbas"
+    },
+    {
+        "city": "Butwal",
+        "area": "Buddhanagar - Naharpur"
+    },
+    {
+        "city": "Butwal",
+        "area": "Buspark Area"
+    },
+    {
+        "city": "Butwal",
+        "area": "Butwal Campus Area"
+    },
+    {
+        "city": "Butwal",
+        "area": "Butwal Industrial Area"
+    },
+    {
+        "city": "Butwal",
+        "area": "Chauraha"
+    },
+    {
+        "city": "Butwal",
+        "area": "Deep Nagar"
+    },
+    {
+        "city": "Butwal",
+        "area": "Devinagar"
+    },
+    {
+        "city": "Butwal",
+        "area": "Fulbari"
+    },
+    {
+        "city": "Butwal",
+        "area": "Golpark"
+    },
+    {
+        "city": "Butwal",
+        "area": "Haatbazaar Area"
+    },
+    {
+        "city": "Butwal",
+        "area": "Kalika Nagar"
+    },
+    {
+        "city": "Butwal",
+        "area": "Laxminagar"
+    },
+    {
+        "city": "Butwal",
+        "area": "Maina Bagar Area"
+    },
+    {
+        "city": "Butwal",
+        "area": "Majuwa"
+    },
+    {
+        "city": "Butwal",
+        "area": "Milan Chowk"
+    },
+    {
+        "city": "Butwal",
+        "area": "Motipur Area"
+    },
+    {
+        "city": "Butwal",
+        "area": "Nayagaun"
+    },
+    {
+        "city": "Butwal",
+        "area": "Nepalgunj Road Area"
+    },
+    {
+        "city": "Butwal",
+        "area": "Ramnagar"
+    },
+    {
+        "city": "Butwal",
+        "area": "Semlar Area"
+    },
+    {
+        "city": "Butwal",
+        "area": "Sukhha Nagar"
+    },
+    {
+        "city": "Butwal",
+        "area": "Tamnagar"
+    },
+    {
+        "city": "Butwal",
+        "area": "Traffic Chowk Area"
+    },
+    {
+        "city": "Butwal",
+        "area": "Yogi Kuti Area"
+    },
+    {
+        "city": "Dang - Ghorahi",
+        "area": "Bharatpur Area"
+    },
+    {
+        "city": "Dang - Ghorahi",
+        "area": "Chaughera Area"
+    },
+    {
+        "city": "Dang - Ghorahi",
+        "area": "Ghorahi Buspark Area"
+    },
+    {
+        "city": "Dang - Ghorahi",
+        "area": "Nayabazar Area"
+    },
+    {
+        "city": "Dang - Ghorahi",
+        "area": "Newroad Area"
+    },
+    {
+        "city": "Dang - Ghorahi",
+        "area": "Ratanpur Area"
+    },
+    {
+        "city": "Dang - Ghorahi",
+        "area": "Sahidgate Area"
+    },
+    {
+        "city": "Dang - Ghorahi",
+        "area": "Traffic Chowk Area"
+    },
+    {
+        "city": "Dang - Ghorahi",
+        "area": "Tulsipur Chowk Area"
+    },
+    {
+        "city": "Dang - Tulsipur",
+        "area": "Bahini Chowk Area"
+    },
+    {
+        "city": "Dang - Tulsipur",
+        "area": "BP Chowk Area"
+    },
+    {
+        "city": "Dang - Tulsipur",
+        "area": "Ganeshpur Area"
+    },
+    {
+        "city": "Dang - Tulsipur",
+        "area": "Parseni Area"
+    },
+    {
+        "city": "Dang - Tulsipur",
+        "area": "Tarigaun Area"
+    },
+    {
+        "city": "Dang - Tulsipur",
+        "area": "Tulsipur Buspark Area"
+    },
+    {
+        "city": "Devdaha",
+        "area": "Bhaluhi"
+    },
+    {
+        "city": "Devdaha",
+        "area": "Charange"
+    },
+    {
+        "city": "Devdaha",
+        "area": "Ghodaha"
+    },
+    {
+        "city": "Devdaha",
+        "area": "Khaireni"
+    },
+    {
+        "city": "Devdaha",
+        "area": "Sitalnagar"
+    },
+    {
+        "city": "Kohalpur",
+        "area": "Babanagar"
+    },
+    {
+        "city": "Kohalpur",
+        "area": "Chappargaudi"
+    },
+    {
+        "city": "Kohalpur",
+        "area": "Happy Water Park Area"
+    },
+    {
+        "city": "Kohalpur",
+        "area": "Kaushila Nagar"
+    },
+    {
+        "city": "Kohalpur",
+        "area": "Kohalpur Chowk"
+    },
+    {
+        "city": "Kohalpur",
+        "area": "Kohalpur Police Beat No 1 Area"
+    },
+    {
+        "city": "Kohalpur",
+        "area": "Madan Chowk"
+    },
+    {
+        "city": "Kohalpur",
+        "area": "Manakamana Chowk"
+    },
+    {
+        "city": "Kohalpur",
+        "area": "Nepalgunj College Area"
+    },
+    {
+        "city": "Kohalpur",
+        "area": "Nepalgunj Medical College Area"
+    },
+    {
+        "city": "Kohalpur",
+        "area": "Siddha Nagar"
+    },
+    {
+        "city": "Lamahi",
+        "area": "Bangaun"
+    },
+    {
+        "city": "Lamahi",
+        "area": "Bankatta"
+    },
+    {
+        "city": "Lamahi",
+        "area": "Deukhuri Campus Area"
+    },
+    {
+        "city": "Lamahi",
+        "area": "Gurjihawa"
+    },
+    {
+        "city": "Lamahi",
+        "area": "Lamahi Bus Park Area"
+    },
+    {
+        "city": "Lamahi",
+        "area": "Lamahi Municipality Office Area"
+    },
+    {
+        "city": "Lamahi",
+        "area": "Namai"
+    },
+    {
+        "city": "Lamahi",
+        "area": "Narti"
+    },
+    {
+        "city": "Lamahi",
+        "area": "Shantinagar"
+    },
+    {
+        "city": "Lumbini Sanskriti",
+        "area": "Lumbini Bikas Kosh Area"
+    },
+    {
+        "city": "Lumbini Sanskriti",
+        "area": "Madhubani"
+    },
+    {
+        "city": "Lumbini Sanskriti",
+        "area": "Mahajidiya"
+    },
+    {
+        "city": "Lumbini Sanskriti",
+        "area": "Padariya"
+    },
+    {
+        "city": "Lumbini Sanskriti",
+        "area": "Tenuhawa"
+    },
+    {
+        "city": "Nepalgunj",
+        "area": "Adarsh Nagar Area"
+    },
+    {
+        "city": "Nepalgunj",
+        "area": "Basudevpur Area"
+    },
+    {
+        "city": "Nepalgunj",
+        "area": "Belaspur Area"
+    },
+    {
+        "city": "Nepalgunj",
+        "area": "Bhawanipur Area"
+    },
+    {
+        "city": "Nepalgunj",
+        "area": "BP Chowk Area"
+    },
+    {
+        "city": "Nepalgunj",
+        "area": "Dhamboji Area"
+    },
+    {
+        "city": "Nepalgunj",
+        "area": "Indrapur Area"
+    },
+    {
+        "city": "Nepalgunj",
+        "area": "Jaisapur Area"
+    },
+    {
+        "city": "Nepalgunj",
+        "area": "Khaskarkado Area"
+    },
+    {
+        "city": "Nepalgunj",
+        "area": "Manikapur Area"
+    },
+    {
+        "city": "Nepalgunj",
+        "area": "Nepalgunj Buspark Area"
+    },
+    {
+        "city": "Nepalgunj",
+        "area": "Prasapur Area"
+    },
+    {
+        "city": "Nepalgunj",
+        "area": "Puraina Area"
+    },
+    {
+        "city": "Nepalgunj",
+        "area": "Udayapur Area"
+    },
+    {
+        "city": "Ramgram",
+        "area": "Bhumahi"
+    },
+    {
+        "city": "Ramgram",
+        "area": "Buddha Chowk"
+    },
+    {
+        "city": "Ramgram",
+        "area": "Durga Mandir"
+    },
+    {
+        "city": "Ramgram",
+        "area": "Parasi Bus Park Area"
+    },
+    {
+        "city": "Ramgram",
+        "area": "Ramagrama Relic Stupa Area"
+    },
+    {
+        "city": "Ramgram",
+        "area": "Ramgram Municipality Office Area"
+    },
+    {
+        "city": "Ramgram",
+        "area": "Sukrauli"
+    },
+    {
+        "city": "Sainamaina",
+        "area": "Basgadi Area"
+    },
+    {
+        "city": "Sainamaina",
+        "area": "Buddhanagar Area"
+    },
+    {
+        "city": "Sainamaina",
+        "area": "Murgiya"
+    },
+    {
+        "city": "Sainamaina",
+        "area": "Ramapur Area"
+    },
+    {
+        "city": "Sainamaina",
+        "area": "Ranibagiya"
+    },
+    {
+        "city": "Sainamaina",
+        "area": "Saljhandi Area"
+    },
+    {
+        "city": "Shivaraj - Chanauta",
+        "area": "Chanauta Bus Stop Area"
+    },
+    {
+        "city": "Shivaraj - Chanauta",
+        "area": "Halla Nagar"
+    },
+    {
+        "city": "Shivaraj - Chanauta",
+        "area": "Jawabhari"
+    },
+    {
+        "city": "Shivaraj - Chanauta",
+        "area": "Kharendrapur"
+    },
+    {
+        "city": "Shivaraj - Chanauta",
+        "area": "Laxmi Tole"
+    },
+    {
+        "city": "Shivaraj - Chanauta",
+        "area": "Samiti Chowk"
+    },
+    {
+        "city": "Shivaraj - Chanauta",
+        "area": "Shivapur Haat Bazaar"
+    },
+    {
+        "city": "Sidarthanagar - Bhairahawa",
+        "area": "Bhairahawa Airport Area"
+    },
+    {
+        "city": "Sidarthanagar - Bhairahawa",
+        "area": "Bhairahawa Buspark Area"
+    },
+    {
+        "city": "Sidarthanagar - Bhairahawa",
+        "area": "Brishapati College Area"
+    },
+    {
+        "city": "Sidarthanagar - Bhairahawa",
+        "area": "Buddha Chowk Area"
+    },
+    {
+        "city": "Sidarthanagar - Bhairahawa",
+        "area": "Darkachua Area"
+    },
+    {
+        "city": "Sidarthanagar - Bhairahawa",
+        "area": "Devkota Chowk Area"
+    },
+    {
+        "city": "Sidarthanagar - Bhairahawa",
+        "area": "Durga Colony"
+    },
+    {
+        "city": "Sidarthanagar - Bhairahawa",
+        "area": "Electricity Office Area"
+    },
+    {
+        "city": "Sidarthanagar - Bhairahawa",
+        "area": "Milan Chowk Area"
+    },
+    {
+        "city": "Sidarthanagar - Bhairahawa",
+        "area": "Ranigaun Area"
+    },
+    {
+        "city": "Sidarthanagar - Bhairahawa",
+        "area": "Universal College Area"
+    },
+    {
+        "city": "Sunwal",
+        "area": "Badera"
+    },
+    {
+        "city": "Sunwal",
+        "area": "Bankatti"
+    },
+    {
+        "city": "Sunwal",
+        "area": "Jyamire"
+    },
+    {
+        "city": "Sunwal",
+        "area": "Kerbani"
+    },
+    {
+        "city": "Sunwal",
+        "area": "Mahakavi Devkota Campus Area"
+    },
+    {
+        "city": "Sunwal",
+        "area": "Sunwal Bus-Station Area"
+    },
+    {
+        "city": "Sunwal",
+        "area": "Sunwal Church Area"
+    },
+    {
+        "city": "Sunwal",
+        "area": "Swathi Area"
+    },
+    {
+        "city": "Tansen",
+        "area": "Bartung Bus Stop Area"
+    },
+    {
+        "city": "Tansen",
+        "area": "Hotel Srinagar Area"
+    },
+    {
+        "city": "Tansen",
+        "area": "Lumbini Medical College Area"
+    },
+    {
+        "city": "Tansen",
+        "area": "Mehaldhara"
+    },
+    {
+        "city": "Tansen",
+        "area": "Narayansthan Pond Area"
+    },
+    {
+        "city": "Tansen",
+        "area": "Palpa Eye Hospital Area"
+    },
+    {
+        "city": "Tansen",
+        "area": "Palpa Hospital Area"
+    },
+    {
+        "city": "Tansen",
+        "area": "Taksar Tole"
+    },
+    {
+        "city": "Tansen",
+        "area": "Tansen Bus Park Area"
+    },
+    {
+        "city": "Tansen",
+        "area": "Tansen Multiple Campus Area"
+    },
+    {
+        "city": "Tansen",
+        "area": "United Mission Hospital Area"
+    },
+    {
+        "city": "Taulihawa - Kapilvastu",
+        "area": "Jamohara Area"
+    },
+    {
+        "city": "Taulihawa - Kapilvastu",
+        "area": "Kapilvastu Multiple Campus"
+    },
+    {
+        "city": "Taulihawa - Kapilvastu",
+        "area": "Kapilvastu Museum"
+    },
+    {
+        "city": "Taulihawa - Kapilvastu",
+        "area": "Taulihawa Bus Station"
+    },
+    {
+        "city": "Taulihawa - Kapilvastu",
+        "area": "Taulihawa Haat Bazaar"
+    },
+    {
+        "city": "Taulihawa - Kapilvastu",
+        "area": "Tilaurakot"
+    },
+    {
+        "city": "Tilotama",
+        "area": "12 number Area"
+    },
+    {
+        "city": "Tilotama",
+        "area": "4 Number Area"
+    },
+    {
+        "city": "Tilotama",
+        "area": "Banbatika"
+    },
+    {
+        "city": "Tilotama",
+        "area": "Bhalwari"
+    },
+    {
+        "city": "Tilotama",
+        "area": "Bihuli"
+    },
+    {
+        "city": "Tilotama",
+        "area": "Dinganagar"
+    },
+    {
+        "city": "Tilotama",
+        "area": "Drivertol"
+    },
+    {
+        "city": "Tilotama",
+        "area": "Janakinagar"
+    },
+    {
+        "city": "Tilotama",
+        "area": "Kotihawa"
+    },
+    {
+        "city": "Tilotama",
+        "area": "Manglapur"
+    },
+    {
+        "city": "Tilotama",
+        "area": "Manigram"
+    },
+    {
+        "city": "Tilotama",
+        "area": "Nayamil"
+    },
+    {
+        "city": "Tilotama",
+        "area": "OSHO"
+    },
+    {
+        "city": "Tilotama",
+        "area": "Pathardada"
+    },
+    {
+        "city": "Tilotama",
+        "area": "Sakhwani"
+    },
+    {
+        "city": "Tilotama",
+        "area": "Shankhanagar"
+    },
+    {
+        "city": "Tilotama",
+        "area": "Sitarice Mill"
+    },
+    {
+        "city": "Bardibas",
+        "area": "Bardibas Bus Stop Area"
+    },
+    {
+        "city": "Bardibas",
+        "area": "Bardibas Hospital Area"
+    },
+    {
+        "city": "Bardibas",
+        "area": "Baridibas"
+    },
+    {
+        "city": "Bardibas",
+        "area": "Bishwakarma Mandir Area"
+    },
+    {
+        "city": "Bardibas",
+        "area": "Dhalkebar"
+    },
+    {
+        "city": "Bardibas",
+        "area": "Gauridanda"
+    },
+    {
+        "city": "Bardibas",
+        "area": "Lalgadh"
+    },
+    {
+        "city": "Birgunj",
+        "area": "Adarshnagar Area"
+    },
+    {
+        "city": "Birgunj",
+        "area": "Birgunj Buspark Area"
+    },
+    {
+        "city": "Birgunj",
+        "area": "Birgunj Customs Area"
+    },
+    {
+        "city": "Birgunj",
+        "area": "Birta Area"
+    },
+    {
+        "city": "Birgunj",
+        "area": "Brahma Chowk Area"
+    },
+    {
+        "city": "Birgunj",
+        "area": "Chhapkaiya Area"
+    },
+    {
+        "city": "Birgunj",
+        "area": "Chitragupt Area"
+    },
+    {
+        "city": "Birgunj",
+        "area": "Gahawa Mai Area"
+    },
+    {
+        "city": "Birgunj",
+        "area": "Ghadiharwa Pokhari Area"
+    },
+    {
+        "city": "Birgunj",
+        "area": "Ghantaghar Area"
+    },
+    {
+        "city": "Birgunj",
+        "area": "Minabazaar Area"
+    },
+    {
+        "city": "Birgunj",
+        "area": "Murali Area"
+    },
+    {
+        "city": "Birgunj",
+        "area": "Nagwa Pokhari"
+    },
+    {
+        "city": "Birgunj",
+        "area": "New ICP Dryport"
+    },
+    {
+        "city": "Birgunj",
+        "area": "Powerhouse Area"
+    },
+    {
+        "city": "Birgunj",
+        "area": "Pratima Chowk Area"
+    },
+    {
+        "city": "Birgunj",
+        "area": "Radhemai Area"
+    },
+    {
+        "city": "Birgunj",
+        "area": "Ranighat Area"
+    },
+    {
+        "city": "Birgunj",
+        "area": "Resham Kothi Area"
+    },
+    {
+        "city": "Birgunj",
+        "area": "Shreepur Area"
+    },
+    {
+        "city": "Chandrapur",
+        "area": "Buspark Area"
+    },
+    {
+        "city": "Chandrapur",
+        "area": "Chapur Bazar"
+    },
+    {
+        "city": "Chhireswarnath",
+        "area": "Chhireswarnath Durga Chowk"
+    },
+    {
+        "city": "Chhireswarnath",
+        "area": "Chhireswarnath Police Station Area"
+    },
+    {
+        "city": "Chhireswarnath",
+        "area": "Laxminiya"
+    },
+    {
+        "city": "Chhireswarnath",
+        "area": "Ramdaiya"
+    },
+    {
+        "city": "Chhireswarnath",
+        "area": "Sakhuwa Bazar"
+    },
+    {
+        "city": "Chhireswarnath",
+        "area": "Sapahi"
+    },
+    {
+        "city": "Dhanushadham",
+        "area": "Bhiman Chowk"
+    },
+    {
+        "city": "Dhanushadham",
+        "area": "Dhanushadham Municipality Office Area"
+    },
+    {
+        "city": "Dhanushadham",
+        "area": "Dharapani Chowk"
+    },
+    {
+        "city": "Dhanushadham",
+        "area": "Govindapur"
+    },
+    {
+        "city": "Dhanushadham",
+        "area": "Kisanpur"
+    },
+    {
+        "city": "Dhanushadham",
+        "area": "Kumhara"
+    },
+    {
+        "city": "Dhanushadham",
+        "area": "Tejnagar"
+    },
+    {
+        "city": "Dhanushadham",
+        "area": "Yagyabhumi"
+    },
+    {
+        "city": "Golbazar",
+        "area": "Campus Area"
+    },
+    {
+        "city": "Golbazar",
+        "area": "Golbazar Main Chowk"
+    },
+    {
+        "city": "Golbazar",
+        "area": "Mahajan Tole"
+    },
+    {
+        "city": "Golbazar",
+        "area": "Maruti Cement Factory Area"
+    },
+    {
+        "city": "Golbazar",
+        "area": "Naya Choharwa"
+    },
+    {
+        "city": "Golbazar",
+        "area": "Purwa Bus Stop Area"
+    },
+    {
+        "city": "Hansapur",
+        "area": "Belhi Chowk"
+    },
+    {
+        "city": "Hansapur",
+        "area": "Hanspur Municipality Office Area"
+    },
+    {
+        "city": "Hansapur",
+        "area": "Kathapulla"
+    },
+    {
+        "city": "Hansapur",
+        "area": "Suga Nikash"
+    },
+    {
+        "city": "Hariwan",
+        "area": "Aditya Batika Chowk"
+    },
+    {
+        "city": "Hariwan",
+        "area": "Bagmati Karmaiya Area"
+    },
+    {
+        "city": "Hariwan",
+        "area": "Barhathawa"
+    },
+    {
+        "city": "Hariwan",
+        "area": "Chaturbhujeshwar Multiple Campus Area"
+    },
+    {
+        "city": "Hariwan",
+        "area": "Chini Mill Area"
+    },
+    {
+        "city": "Hariwan",
+        "area": "Dabri Bazar"
+    },
+    {
+        "city": "Hariwan",
+        "area": "Dharahara Chowk"
+    },
+    {
+        "city": "Hariwan",
+        "area": "Ganesh Chowk"
+    },
+    {
+        "city": "Hariwan",
+        "area": "Ghurkauli Chowk"
+    },
+    {
+        "city": "Hariwan",
+        "area": "Hariyon Bus Park Area"
+    },
+    {
+        "city": "Hariwan",
+        "area": "Hariyon Park Area"
+    },
+    {
+        "city": "Hariwan",
+        "area": "Jirat Bazar"
+    },
+    {
+        "city": "Hariwan",
+        "area": "Milan Chowk"
+    },
+    {
+        "city": "Hariwan",
+        "area": "Naya Road Chowk Area"
+    },
+    {
+        "city": "Hariwan",
+        "area": "Purwa Bus Park Area"
+    },
+    {
+        "city": "Hariwan",
+        "area": "Putali Chowk Area"
+    },
+    {
+        "city": "Hariwan",
+        "area": "Shankarpur Area"
+    },
+    {
+        "city": "Hariwan",
+        "area": "Sita Palace Hotel Area"
+    },
+    {
+        "city": "Hariwan",
+        "area": "Solti Bazaar"
+    },
+    {
+        "city": "Hariwan",
+        "area": "Sunrise School Area"
+    },
+    {
+        "city": "Jaleswor",
+        "area": "Jaleswor Buddhijibi Chowk"
+    },
+    {
+        "city": "Jaleswor",
+        "area": "Mahadev Mandir"
+    },
+    {
+        "city": "Jaleswor",
+        "area": "Mahendra Chowk"
+    },
+    {
+        "city": "Jaleswor",
+        "area": "Parkauli Chowk"
+    },
+    {
+        "city": "Jaleswor",
+        "area": "Pipara"
+    },
+    {
+        "city": "Jaleswor",
+        "area": "Shankar chowk"
+    },
+    {
+        "city": "Jaleswor",
+        "area": "Zero Mile"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Bahuarwa Area"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Balmiki Nagar"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Bhanu Chowk"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Brahmapura Chowk"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Janaki Mandir Area"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Janaki Nagar"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Janakpur Airport Area"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Kadam Chowk"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Kishori Nagar"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Kurtha"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Lohana Area"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Madhesh Pradesh Sabha Area"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Mahavir Chowk"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Mahuwa-kapileswor"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Manharpur"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Mills Area"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Mujelia Area"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Murali Chowk"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Pidari Chowk"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Pulchowk"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Ramanand Chowk"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Ram Chowk"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Thapa Chowk"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Viswakarma Chowk"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Wakil Tole"
+    },
+    {
+        "city": "Janakpur",
+        "area": "Zero Mile"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Auraha Area"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Badan Nagar Area"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Bajeni Area"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Barack Area"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Boring Tole"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Hulas Area"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Jagadamba Area"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Jeetpur Bazaar Area"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Kera Dhoka Area"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Laxmi Hall Area"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Narbasti Area"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Nepal Boards Area"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Paani Tanki Area"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Pahadi Tole"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Parwanipur"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Pathlaiya Traffic Chowk"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Rampur Tokani - Dabur Area"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Shanti Tole"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Shiv Parvati Hall Area"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Simara Airport Area"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Simara Chowk Area"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Simara Colony"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Simara Powerhouse Area"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Surya Niwas Area"
+    },
+    {
+        "city": "Jeetpur - Simara",
+        "area": "Telecom Area"
+    },
+    {
+        "city": "Kalaiya",
+        "area": "Bharat Chowk"
+    },
+    {
+        "city": "Kalaiya",
+        "area": "Buspark Area"
+    },
+    {
+        "city": "Kalaiya",
+        "area": "CDO Office Area"
+    },
+    {
+        "city": "Kalaiya",
+        "area": "Gupta Oil Area"
+    },
+    {
+        "city": "Kalaiya",
+        "area": "Hanuman Mandir Area"
+    },
+    {
+        "city": "Kalaiya",
+        "area": "Kalaiya Bajar"
+    },
+    {
+        "city": "Kalaiya",
+        "area": "Kalaiya Barewa Hospital Area"
+    },
+    {
+        "city": "Kalaiya",
+        "area": "Kalaiya Malpot Area"
+    },
+    {
+        "city": "Kalaiya",
+        "area": "Motisar"
+    },
+    {
+        "city": "Kalaiya",
+        "area": "Parsauni"
+    },
+    {
+        "city": "Kalaiya",
+        "area": "Rajaram Campus Area"
+    },
+    {
+        "city": "Kalaiya",
+        "area": "Shiksha Office Area"
+    },
+    {
+        "city": "Kalaiya",
+        "area": "Siddheshwor Mandir Area"
+    },
+    {
+        "city": "Lahan",
+        "area": "Ganesh Chowk"
+    },
+    {
+        "city": "Lahan",
+        "area": "Ganeshpur"
+    },
+    {
+        "city": "Lahan",
+        "area": "ISKCON Area"
+    },
+    {
+        "city": "Lahan",
+        "area": "J.S. Murarka Campus Area"
+    },
+    {
+        "city": "Lahan",
+        "area": "Lahan Municipality Office Area"
+    },
+    {
+        "city": "Lahan",
+        "area": "Lahan Post Office Area"
+    },
+    {
+        "city": "Lahan",
+        "area": "Lahan Vegetable Market"
+    },
+    {
+        "city": "Lahan",
+        "area": "Nepal Telecom Area"
+    },
+    {
+        "city": "Lahan",
+        "area": "Padariya"
+    },
+    {
+        "city": "Lahan",
+        "area": "Saptarishi Hospital Area"
+    },
+    {
+        "city": "Lahan",
+        "area": "Sisawani"
+    },
+    {
+        "city": "Lalbandi",
+        "area": "Bayalbas Bazaar"
+    },
+    {
+        "city": "Lalbandi",
+        "area": "Dhukdhuki FM Area"
+    },
+    {
+        "city": "Lalbandi",
+        "area": "Janajyoti Multiple Campus Area"
+    },
+    {
+        "city": "Lalbandi",
+        "area": "Jutpani Bus Stop Area"
+    },
+    {
+        "city": "Lalbandi",
+        "area": "Kalinjor School Area"
+    },
+    {
+        "city": "Lalbandi",
+        "area": "Khatiwoda Chowk"
+    },
+    {
+        "city": "Lalbandi",
+        "area": "Laxmipur"
+    },
+    {
+        "city": "Lalbandi",
+        "area": "Marin Jane Chowk"
+    },
+    {
+        "city": "Lalbandi",
+        "area": "Mejargunj Chautara"
+    },
+    {
+        "city": "Lalbandi",
+        "area": "Nawalpur Bazaar"
+    },
+    {
+        "city": "Lalbandi",
+        "area": "Netragunj"
+    },
+    {
+        "city": "Lalbandi",
+        "area": "Pattharkot"
+    },
+    {
+        "city": "Lalbandi",
+        "area": "Raniganj Chowk"
+    },
+    {
+        "city": "Lalbandi",
+        "area": "Vegetable Mart Area"
+    },
+    {
+        "city": "Malangwa",
+        "area": "Buspark Area"
+    },
+    {
+        "city": "Malangwa",
+        "area": "Ghamhariya Bus Stop Area"
+    },
+    {
+        "city": "Malangwa",
+        "area": "Jilla Bikash Samati Chowk"
+    },
+    {
+        "city": "Malangwa",
+        "area": "Kabilashi Bus Stop Area"
+    },
+    {
+        "city": "Malangwa",
+        "area": "Krishna Chowk"
+    },
+    {
+        "city": "Malangwa",
+        "area": "Malangwa Nagarpalika Chowk"
+    },
+    {
+        "city": "Malangwa",
+        "area": "Salempur Chowk"
+    },
+    {
+        "city": "Malangwa",
+        "area": "Shivsagar Chowk"
+    },
+    {
+        "city": "Mirchaiya",
+        "area": "Bhagwatpur"
+    },
+    {
+        "city": "Mirchaiya",
+        "area": "Fulbariya School Area"
+    },
+    {
+        "city": "Mirchaiya",
+        "area": "Ghurmi Bazaar"
+    },
+    {
+        "city": "Mirchaiya",
+        "area": "Katari Chowk"
+    },
+    {
+        "city": "Mirchaiya",
+        "area": "Mirchaiya Bazar"
+    },
+    {
+        "city": "Mirchaiya",
+        "area": "Sanstha Chowk"
+    },
+    {
+        "city": "Mithila",
+        "area": "Dhalkebar Chowk"
+    },
+    {
+        "city": "Mithila",
+        "area": "Dhalkebar Substation Area"
+    },
+    {
+        "city": "Mithila",
+        "area": "Jamunabas Bus Park Area"
+    },
+    {
+        "city": "Mithila",
+        "area": "Kushwaha Chowk"
+    },
+    {
+        "city": "Mithila",
+        "area": "Mithila Municipality Office Area"
+    },
+    {
+        "city": "Mithila",
+        "area": "Ram Laxman Chowk"
+    },
+    {
+        "city": "Mithila Bihari",
+        "area": "Bhutahi Bazar"
+    },
+    {
+        "city": "Mithila Bihari",
+        "area": "Mauwahi"
+    },
+    {
+        "city": "Mithila Bihari",
+        "area": "Purandaha Bazaar"
+    },
+    {
+        "city": "Mithila Bihari",
+        "area": "Tarapatti Bazaar"
+    },
+    {
+        "city": "Mithila Bihari",
+        "area": "Tarapatti Sirsiya"
+    },
+    {
+        "city": "Mithila Bihari",
+        "area": "Thera"
+    },
+    {
+        "city": "Nagarain",
+        "area": "Fulgama"
+    },
+    {
+        "city": "Nagarain",
+        "area": "Hospital Chowk"
+    },
+    {
+        "city": "Nagarain",
+        "area": "Jatahi"
+    },
+    {
+        "city": "Nagarain",
+        "area": "Lagmagadhaguthi"
+    },
+    {
+        "city": "Nagarain",
+        "area": "Lagmagadhaguthi Masjid Area"
+    },
+    {
+        "city": "Nagarain",
+        "area": "Nochha Park Area"
+    },
+    {
+        "city": "Nagarain",
+        "area": "Vegetable Market Area"
+    },
+    {
+        "city": "Rajbiraj",
+        "area": "Airport Area"
+    },
+    {
+        "city": "Rajbiraj",
+        "area": "Boriya Petrol Pump Area"
+    },
+    {
+        "city": "Rajbiraj",
+        "area": "Gajendra Narayan Singh Chowk"
+    },
+    {
+        "city": "Rajbiraj",
+        "area": "Islampur Purni Pokhri"
+    },
+    {
+        "city": "Rajbiraj",
+        "area": "Karn Park Area"
+    },
+    {
+        "city": "Rajbiraj",
+        "area": "Kharsal Tole"
+    },
+    {
+        "city": "Rajbiraj",
+        "area": "Maleth"
+    },
+    {
+        "city": "Rajbiraj",
+        "area": "Pulchowk"
+    },
+    {
+        "city": "Rajbiraj",
+        "area": "Rajbiraj Model Campus Area"
+    },
+    {
+        "city": "Rajbiraj",
+        "area": "Raj Devi Field Area"
+    },
+    {
+        "city": "Rajbiraj",
+        "area": "Shree Shiv Baba Mandir Area"
+    },
+    {
+        "city": "Rajbiraj",
+        "area": "Tetri Gachhi Chowk"
+    },
+    {
+        "city": "Rajbiraj",
+        "area": "Turanti Pokhari Area"
+    },
+    {
+        "city": "Rajbiraj",
+        "area": "Urban Green Park Area"
+    },
+    {
+        "city": "Sabaila",
+        "area": "Bhathihan Bazaar"
+    },
+    {
+        "city": "Sabaila",
+        "area": "Hanuman Chowk"
+    },
+    {
+        "city": "Sabaila",
+        "area": "Sabaila Bazaar"
+    },
+    {
+        "city": "Sabaila",
+        "area": "Sabaila Municipality Office Area"
+    },
+    {
+        "city": "Sabaila",
+        "area": "Thilla Yaduwa"
+    },
+    {
+        "city": "Shahidnagar",
+        "area": "Aadarsha Chowk"
+    },
+    {
+        "city": "Shahidnagar",
+        "area": "Chandani Chowk"
+    },
+    {
+        "city": "Shahidnagar",
+        "area": "Hanuman Mandir Area"
+    },
+    {
+        "city": "Shahidnagar",
+        "area": "Noori Jama Masjid Area"
+    },
+    {
+        "city": "Shahidnagar",
+        "area": "Shahid Municipality Office Area"
+    },
+    {
+        "city": "Shahidnagar",
+        "area": "Yadukuha Police Beat Area"
+    },
+    {
+        "city": "Bhajani",
+        "area": "Bhajani Trishakti"
+    },
+    {
+        "city": "Bhajani",
+        "area": "Joshipur"
+    },
+    {
+        "city": "Bhajani",
+        "area": "Thapapur - Mahadeuli"
+    },
+    {
+        "city": "Bhimdatta-Mahendranagar",
+        "area": "Bhagatpur"
+    },
+    {
+        "city": "Bhimdatta-Mahendranagar",
+        "area": "Bhasi"
+    },
+    {
+        "city": "Bhimdatta-Mahendranagar",
+        "area": "Gadda Chauki"
+    },
+    {
+        "city": "Bhimdatta-Mahendranagar",
+        "area": "Gobariya"
+    },
+    {
+        "city": "Bhimdatta-Mahendranagar",
+        "area": "Mahendranagar Bazar"
+    },
+    {
+        "city": "Bhimdatta-Mahendranagar",
+        "area": "Suda"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "Adarsha Tole Area"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "Airport area"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "Badhara Area"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "Baiya Behandi"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "Bishalnagar Area"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "Boradadi area"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "Campus Road Area"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "Chatakpur Area"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "Chauraha Area"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "Ganesh mandir area"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "Hasanpur Area"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "Jai Area"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "kailali customs office"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "Kailali District Court Area"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "Khaptad Chowk"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "LN Chowk"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "Milan Chowk Area"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "Om Shanti Tole"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "Rajpur area"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "Santoshi Tole Area"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "Satkar Chowk Area"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "Shivpuri dham area"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "Taranagar Area"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "Tiketal Area"
+    },
+    {
+        "city": "Dhangadhi",
+        "area": "Uttar Behandi"
+    },
+    {
+        "city": "Gauriganga",
+        "area": "Aambari Galli Area"
+    },
+    {
+        "city": "Gauriganga",
+        "area": "Banbehada Bazaar"
+    },
+    {
+        "city": "Gauriganga",
+        "area": "Chaumala Bazaar"
+    },
+    {
+        "city": "Gauriganga",
+        "area": "Kuchaini"
+    },
+    {
+        "city": "Gauriganga",
+        "area": "Mangalpur Bazaar"
+    },
+    {
+        "city": "Ghodaghodi",
+        "area": "Ghoda Ghodi Multiple College Area"
+    },
+    {
+        "city": "Ghodaghodi",
+        "area": "Pahalmanpur Bazaar"
+    },
+    {
+        "city": "Ghodaghodi",
+        "area": "Sukhad Bazaar"
+    },
+    {
+        "city": "Godawari",
+        "area": "Attariya Chowk"
+    },
+    {
+        "city": "Godawari",
+        "area": "Dixit Nagar"
+    },
+    {
+        "city": "Godawari",
+        "area": "Geta"
+    },
+    {
+        "city": "Godawari",
+        "area": "Krishna Mandir Tole"
+    },
+    {
+        "city": "Godawari",
+        "area": "Lalpur Football Ground Area"
+    },
+    {
+        "city": "Godawari",
+        "area": "Malakheti"
+    },
+    {
+        "city": "Godawari",
+        "area": "Shreepur"
+    },
+    {
+        "city": "Lamki Chuha",
+        "area": "Chisapani Bazaar"
+    },
+    {
+        "city": "Lamki Chuha",
+        "area": "Dododhara Chowk"
+    },
+    {
+        "city": "Lamki Chuha",
+        "area": "Ganeshpur Chowk"
+    },
+    {
+        "city": "Lamki Chuha",
+        "area": "Gulara Bus Park Area"
+    },
+    {
+        "city": "Lamki Chuha",
+        "area": "Lamki Bazaar"
+    },
+    {
+        "city": "Lamki Chuha",
+        "area": "Lamki Zero Mile"
+    },
+    {
+        "city": "Lamki Chuha",
+        "area": "Motipur"
+    },
+    {
+        "city": "Lamki Chuha",
+        "area": "Syaule Bazar"
+    },
+    {
+        "city": "Tikapur",
+        "area": "Bijayanagar"
+    },
+    {
+        "city": "Tikapur",
+        "area": "Munuwa"
+    },
+    {
+        "city": "Tikapur",
+        "area": "Narayanpur Chauraha"
+    },
+    {
+        "city": "Tikapur",
+        "area": "Satti Bazaar"
+    },
+    {
+        "city": "Tikapur",
+        "area": "Tikapur Airport Area"
+    },
+    {
+        "city": "Tikapur",
+        "area": "Tikapur Campus Area"
+    },
+    {
+        "city": "Tikapur",
+        "area": "Tikapur Poly Technical Area"
+    }
+]
