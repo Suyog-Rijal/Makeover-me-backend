@@ -1,38 +1,51 @@
+from django.conf import settings
 from django.contrib.auth import get_user_model
 from django.core.signing import SignatureExpired, BadSignature
-from drf_spectacular.utils import extend_schema
+from django.utils.decorators import method_decorator
+from django.views.decorators.csrf import csrf_protect
+from drf_spectacular.utils import extend_schema, OpenApiResponse, OpenApiParameter
 from rest_framework import status
 from rest_framework.permissions import AllowAny, IsAuthenticated
 from rest_framework.response import Response
 from rest_framework.views import APIView
 from rest_framework_simplejwt.exceptions import TokenError
 from rest_framework_simplejwt.tokens import RefreshToken
+
 from account.serializers import SignupSerializer, LoginSerializer, MeSerializer
-from django.conf import settings
 from api.tasks import send_email_confirmation_mail
 from api.tokens import generate_email_confirmation_token, verify_email_confirmation_token
-from django.views.decorators.csrf import csrf_protect
-from django.utils.decorators import method_decorator
+
 User = get_user_model()
 
 
 class SignupView(APIView):
     permission_classes = [AllowAny]
 
-    @extend_schema(tags=['Authentication'], request=SignupSerializer, auth=[], summary="Create an account")
+    @extend_schema(tags=['Authentication'],
+                   request=SignupSerializer,
+                   auth=[],
+                   summary="Create an account",
+                   responses={
+                       200: OpenApiResponse(
+                           description="Account created successfully",
+                       )},
+                   )
     def post(self, request):
         serializer = SignupSerializer(data=request.data)
         serializer.is_valid(raise_exception=True)
         user = serializer.save()
 
-        if not user.is_verified:
+        try:
             token = generate_email_confirmation_token(user.pk)
             verification_link = f"{settings.FRONTEND_URL}/auth/verify-email?token={token}"
             send_email_confirmation_mail.delay(user.email, verification_link)
 
-        return Response({
-            'detail': 'Account created successfully. Please check your email for verification link.'
-        }, status=status.HTTP_201_CREATED)
+            return Response({
+                'detail': 'Account created successfully. Please check your email for verification link.',
+                'token (STRICTLY for dev env)': f'{verification_link}'
+            }, status=status.HTTP_201_CREATED)
+        except Exception as ex:
+            print(ex)
 
 
 class LoginView(APIView):
@@ -41,6 +54,7 @@ class LoginView(APIView):
 
     @extend_schema(tags=['Authentication'], request=LoginSerializer, auth=[], summary="Login a user")
     def post(self, request):
+        secure = request.data.get('secure', 'true')
         serializer = LoginSerializer(data=request.data)
         serializer.is_valid(raise_exception=True)
         user = serializer.validated_data['user']
@@ -48,24 +62,32 @@ class LoginView(APIView):
         refresh = RefreshToken.for_user(user)
         access = refresh.access_token
 
-        response = Response({
+        response_data = {
             'access_token': str(access),
             'data': {
                 'id': user.id,
                 'email': user.email,
                 'full_name': user.full_name,
                 'avatar': user.avatar.url if hasattr(user, 'avatar') and user.avatar else None,
-            }
-        }, status=status.HTTP_200_OK)
+            },
+            'detail': 'Account has been verified successfully. You can continue your journey'
+        }
 
-        response.set_cookie(
-            settings.SIMPLE_JWT['AUTH_COOKIE'],
-            str(refresh),
-            max_age=settings.SIMPLE_JWT['REFRESH_TOKEN_LIFETIME'].total_seconds(),
-            httponly=settings.SIMPLE_JWT['AUTH_COOKIE_HTTP_ONLY'],
-            samesite=settings.SIMPLE_JWT['AUTH_COOKIE_SAMESITE'],
-            secure=settings.SIMPLE_JWT['AUTH_COOKIE_SECURE'],
-        )
+        if not secure:
+            response_data = {'refresh_token': str(refresh), **response_data}
+
+        response = Response(response_data, status=status.HTTP_200_OK)
+
+        if secure:
+            response.set_cookie(
+                settings.SIMPLE_JWT['AUTH_COOKIE'],
+                str(refresh),
+                max_age=settings.SIMPLE_JWT['REFRESH_TOKEN_LIFETIME'].total_seconds(),
+                httponly=settings.SIMPLE_JWT['AUTH_COOKIE_HTTP_ONLY'],
+                samesite=settings.SIMPLE_JWT['AUTH_COOKIE_SAMESITE'],
+                secure=settings.SIMPLE_JWT['AUTH_COOKIE_SECURE'],
+            )
+
         return response
 
 
@@ -78,7 +100,8 @@ class RefreshView(APIView):
 
         refresh_token = request.COOKIES.get(settings.SIMPLE_JWT['AUTH_COOKIE'])
         if not refresh_token:
-            return Response({"detail": "You are not authorized to make this request."}, status=status.HTTP_401_UNAUTHORIZED)
+            return Response({"detail": "You are not authorized to make this request."},
+                            status=status.HTTP_401_UNAUTHORIZED)
 
         try:
             refresh = RefreshToken(refresh_token)
@@ -125,9 +148,26 @@ class RefreshView(APIView):
 class VerifyEmailView(APIView):
     permission_classes = [AllowAny]
 
-    @extend_schema(tags=['Authentication'], auth=[], summary="Verify email address")
+    @extend_schema(tags=['Authentication'], auth=[], summary="Verify email address",
+                   parameters=[
+                       OpenApiParameter(
+                           name='token',
+                           type=str,
+                           location='query',
+                           description='Email verification token'
+                       ),
+                       OpenApiParameter(
+                           name='secure',
+                           type=bool,
+                           location='query',
+                           description='Whether to return refresh token in a secure cookie (true/false)',
+                           required=False
+                       )
+                   ]
+                   )
     def get(self, request):
         token = request.query_params.get("token", "")
+        secure = request.query_params.get("secure", "true").lower() == "true"
         try:
             user_pk = verify_email_confirmation_token(token)
         except SignatureExpired:
@@ -146,7 +186,7 @@ class VerifyEmailView(APIView):
         refresh = RefreshToken.for_user(user)
         access = refresh.access_token
 
-        response = Response({
+        response_data = {
             'access_token': str(access),
             'data': {
                 'id': user.id,
@@ -155,18 +195,24 @@ class VerifyEmailView(APIView):
                 'avatar': user.avatar.url if hasattr(user, 'avatar') and user.avatar else None,
             },
             'detail': 'Account has been verified successfully. You can continue your journey'
-        }, status=status.HTTP_200_OK)
+        }
 
-        response.set_cookie(
-            settings.SIMPLE_JWT['AUTH_COOKIE'],
-            str(refresh),
-            max_age=settings.SIMPLE_JWT['REFRESH_TOKEN_LIFETIME'].total_seconds(),
-            httponly=settings.SIMPLE_JWT['AUTH_COOKIE_HTTP_ONLY'],
-            samesite=settings.SIMPLE_JWT['AUTH_COOKIE_SAMESITE'],
-            secure=settings.SIMPLE_JWT['AUTH_COOKIE_SECURE'],
-        )
+        if not secure:
+            response_data = {'refresh_token': str(refresh), **response_data}
+
+        response = Response(response_data, status=status.HTTP_200_OK)
+
+        if secure:
+            response.set_cookie(
+                settings.SIMPLE_JWT['AUTH_COOKIE'],
+                str(refresh),
+                max_age=settings.SIMPLE_JWT['REFRESH_TOKEN_LIFETIME'].total_seconds(),
+                httponly=settings.SIMPLE_JWT['AUTH_COOKIE_HTTP_ONLY'],
+                samesite=settings.SIMPLE_JWT['AUTH_COOKIE_SAMESITE'],
+                secure=settings.SIMPLE_JWT['AUTH_COOKIE_SECURE'],
+            )
+
         return response
-
 
 class MeView(APIView):
     permission_classes = [IsAuthenticated]

@@ -40,7 +40,7 @@ INSTALLED_APPS = [
 	# Local apps
 	'api',
 	'account',
-	'category',
+    'store'
 ]
 
 MIDDLEWARE = [
@@ -313,7 +313,7 @@ LOGGING = {
 }
 
 # Other tokens
-EMAIL_CONFIRMATION_TOKEN_MAX_AGE = env.int('EMAIL_CONFIRMATION_TOKEN_MAX_AGE', default=60 * 60)
+EMAIL_CONFIRMATION_TOKEN_MAX_AGE = env.int('EMAIL_CONFIRMATION_TOKEN_MAX_AGE', default=10 * 60)
 
 # CSRF Settings
 CSRF_FAILURE_VIEW = 'api.views.csrf_failure'
