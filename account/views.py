@@ -97,7 +97,6 @@ class RefreshView(APIView):
 
     @extend_schema(tags=['Authentication'], auth=[], summary="Refresh access token using refresh token")
     def post(self, request):
-
         refresh_token = request.COOKIES.get(settings.SIMPLE_JWT['AUTH_COOKIE'])
         if not refresh_token:
             return Response({"detail": "You are not authorized to make this request."},
