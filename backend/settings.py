@@ -233,7 +233,7 @@ CORS_ALLOWED_HEADERS = [
 ]
 
 # Email
-if PRODUCTION:
+if DEBUG:
 	EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 	EMAIL_HOST = env('EMAIL_HOST')
 	EMAIL_PORT = env.int('EMAIL_PORT', default=587)
