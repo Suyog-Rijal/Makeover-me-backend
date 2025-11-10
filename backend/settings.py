@@ -5,8 +5,8 @@ import environ
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 env = environ.Env(
-    DEBUG=(bool, False),
-    PRODUCTION=(bool, True),
+    DEBUG=(bool, True),
+    PRODUCTION=(bool, False),
 )
 environ.Env.read_env(BASE_DIR / '.env')
 
@@ -316,12 +316,14 @@ LOGGING = {
 EMAIL_CONFIRMATION_TOKEN_MAX_AGE = env.int('EMAIL_CONFIRMATION_TOKEN_MAX_AGE', default=10 * 60)
 
 # CSRF Settings
-CSRF_FAILURE_VIEW = 'api.views.csrf_failure'
-CSRF_COOKIE_NAME = "csrftoken"
-CSRF_COOKIE_HTTPONLY = False
-CSRF_COOKIE_SECURE = PRODUCTION
-CSRF_COOKIE_SAMESITE = 'Lax'
-CSRF_TRUSTED_ORIGINS = env.list('CSRF_TRUSTED_ORIGINS', default=[])
+if not PRODUCTION:
+    CSRF_TRUSTED_ORIGINS = ['*']  # Accept requests from any origin
+    CSRF_COOKIE_SECURE = False     # Allow cookies over HTTP
+    SESSION_COOKIE_SECURE = False  # Same for session cookies
+else:
+    CSRF_TRUSTED_ORIGINS = env.list('CSRF_TRUSTED_ORIGINS', default=[])
+    CSRF_COOKIE_SECURE = True
+    SESSION_COOKIE_SECURE = True
 
 # Filer Settings
 # THUMBNAIL_HIGH_RESOLUTION = True
