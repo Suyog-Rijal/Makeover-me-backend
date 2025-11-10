@@ -47,6 +47,7 @@ class Product(models.Model):
     id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
     category = models.ForeignKey(Category, related_name='products', on_delete=models.CASCADE)
     name = models.CharField(max_length=255)
+    preview = models.URLField(max_length=500, blank=True, null=True)
     slug = models.SlugField(max_length=255, unique=True, db_index=True)
     description = models.TextField(blank=True, null=True)
     unit_price = models.DecimalField(max_digits=10, decimal_places=2, default=0.00)

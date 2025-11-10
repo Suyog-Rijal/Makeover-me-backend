@@ -5,7 +5,7 @@ from .models import Category, generate_unique_slug, Product, ProductImage
 
 @admin.register(Category)
 class CategoryAdmin(admin.ModelAdmin):
-    list_display = ['name', 'slug', 'image_preview']
+    list_display = ['id', 'name', 'slug', 'image_preview']
     list_filter = ['created_on', 'updated_on']
     search_fields = ['name', 'slug']
     readonly_fields = ['created_on', 'updated_on']

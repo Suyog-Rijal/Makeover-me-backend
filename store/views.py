@@ -20,7 +20,7 @@ from .serializers import ProductSerializer, CategorySerializer
 )
 class ProductViewSet(ModelViewSet):
     http_method_names = ['get']
-    queryset = Product.objects.filter(is_active=True)
+    queryset = Product.objects.filter(is_active=True).order_by('id')
     serializer_class = ProductSerializer
     lookup_field = 'slug'
     filter_backends = [DjangoFilterBackend, SearchFilter]
