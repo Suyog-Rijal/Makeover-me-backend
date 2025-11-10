@@ -4,7 +4,7 @@ from django.conf import settings
 from rest_framework import serializers
 from django.contrib.auth import get_user_model
 from api.tasks import send_email_confirmation_mail
-from api.tokens import generate_email_confirmation_token
+from api.tokens import generate_token
 
 User = get_user_model()
 
@@ -57,7 +57,6 @@ class SignupSerializer(serializers.ModelSerializer):
 class LoginSerializer(serializers.Serializer):
     email = serializers.EmailField(required=True, max_length=255)
     password = serializers.CharField(write_only=True, required=True)
-    secure = serializers.BooleanField(required=False, default=True)
 
     def validate(self, attrs):
         email = attrs.get('email')
@@ -72,7 +71,7 @@ class LoginSerializer(serializers.Serializer):
             raise serializers.ValidationError(
                 "This email is associated with a Google account. Please log in using Google.")
         if not user.is_verified:
-            token = generate_email_confirmation_token(user.pk)
+            token = generate_token(user.pk)
             verification_link = f"{settings.FRONTEND_URL}/auth/verify-email?token={token}"
             send_email_confirmation_mail.delay(user.email, verification_link)
             raise serializers.ValidationError(
@@ -86,3 +85,23 @@ class MeSerializer(serializers.ModelSerializer):
     class Meta:
         model = User
         fields = ('email', 'full_name', 'contact', 'avatar')
+
+
+class ForgotPasswordSerializer(serializers.Serializer):
+    email = serializers.EmailField(required=True, max_length=255)
+
+    def validate(self, attrs):
+        email = attrs.get('email')
+        user = User.objects.filter(email=email).first()
+        if not user:
+            raise serializers.ValidationError("If an account with this email exists, a password reset link has been sent.")
+        if user.is_google_user:
+            raise serializers.ValidationError("This email is associated with a Google account. Please log in using Google.")
+        if not user.is_verified:
+            token = generate_token(user.pk)
+            verification_link = f"{settings.FRONTEND_URL}/auth/verify-email?token={token}"
+            send_email_confirmation_mail.delay(user.email, verification_link)
+            raise serializers.ValidationError(
+                "Email is not verified. Please check your inbox and verify the email clicking the verification link.")
+        attrs['user'] = user
+        return attrs
