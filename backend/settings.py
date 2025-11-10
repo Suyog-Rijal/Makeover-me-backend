@@ -316,14 +316,13 @@ LOGGING = {
 EMAIL_CONFIRMATION_TOKEN_MAX_AGE = env.int('EMAIL_CONFIRMATION_TOKEN_MAX_AGE', default=10 * 60)
 
 # CSRF Settings
-if not PRODUCTION:
-    CSRF_TRUSTED_ORIGINS = ['*']  # Accept requests from any origin
-    CSRF_COOKIE_SECURE = False     # Allow cookies over HTTP
-    SESSION_COOKIE_SECURE = False  # Same for session cookies
-else:
-    CSRF_TRUSTED_ORIGINS = env.list('CSRF_TRUSTED_ORIGINS', default=[])
-    CSRF_COOKIE_SECURE = True
-    SESSION_COOKIE_SECURE = True
+CSRF_FAILURE_VIEW = 'api.views.csrf_failure'
+CSRF_COOKIE_NAME = "csrftoken"
+CSRF_COOKIE_HTTPONLY = False
+CSRF_COOKIE_SECURE = False
+CSRF_COOKIE_SAMESITE = 'Lax'
+CORS_ALLOW_ALL_ORIGINS = True
+CSRF_TRUSTED_ORIGINS = ['http://*', 'https://*']
 
 # Filer Settings
 # THUMBNAIL_HIGH_RESOLUTION = True
