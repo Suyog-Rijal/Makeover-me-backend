@@ -53,6 +53,13 @@ class Product(models.Model):
     unit_price = models.DecimalField(max_digits=10, decimal_places=2, default=0.00)
     stock = models.PositiveIntegerField(default=0)
     is_featured = models.BooleanField(default=False)
+
+    is_flash_sale = models.BooleanField(default=False)
+    is_product_of_the_day = models.BooleanField(default=False)
+    is_best_seller = models.BooleanField(default=False)
+    is_attractive_offer = models.BooleanField(default=False)
+
+
     rating = models.FloatField(default=0.0)
 
     is_active = models.BooleanField(default=True)

@@ -22,7 +22,7 @@ class ProductImageInline(admin.TabularInline):
 
 @admin.register(Product)
 class ProductAdmin(admin.ModelAdmin):
-    list_display = ['name', 'slug', 'category', 'unit_price', 'stock', 'is_active',]
+    list_display = ['name', 'slug', 'category', 'unit_price', 'stock', 'is_featured', 'is_product_of_the_day', 'is_best_seller', 'is_best_seller', 'is_active',]
     list_filter = ['is_active', 'is_featured', 'category']
     search_fields = ['name', 'description']
     readonly_fields = ['created_at', 'updated_at']

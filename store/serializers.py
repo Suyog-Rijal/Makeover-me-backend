@@ -39,6 +39,10 @@ class ProductSerializer(serializers.ModelSerializer):
             'unit_price',
             'stock',
             'is_featured',
+            'is_flash_sale',
+            'is_product_of_the_day',
+            'is_best_seller',
+            'is_attractive_offer',
             'rating',
             'category',
             'images'

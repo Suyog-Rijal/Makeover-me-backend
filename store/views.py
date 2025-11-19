@@ -6,6 +6,7 @@ from api.filters import ProductCategoryFilter
 from api.pagination import ProductResultsPagination
 from .models import Product, Category
 from .serializers import ProductSerializer, CategorySerializer
+from rest_framework.generics import ListAPIView
 
 
 @extend_schema_view(
@@ -44,3 +45,31 @@ class CategoryViewSet(ModelViewSet):
     queryset = Category.objects.filter(is_active=True)
     serializer_class = CategorySerializer
     lookup_field = 'slug'
+
+
+@extend_schema(tags=["Products"], auth=[],)
+class FlashSalesListView(ListAPIView):
+    queryset = Product.objects.filter(is_active=True, is_flash_sale=True)
+    serializer_class = ProductSerializer
+    pagination_class = ProductResultsPagination
+
+@extend_schema(tags=["Products"], auth=[],)
+class ProductOfTheDayListView(ListAPIView):
+    queryset = Product.objects.filter(is_active=True, is_product_of_the_day=True)
+    serializer_class = ProductSerializer
+    pagination_class = ProductResultsPagination
+
+
+@extend_schema(tags=["Products"], auth=[],)
+class BestSellerListView(ListAPIView):
+    queryset = Product.objects.filter(is_active=True, is_best_seller=True)
+    serializer_class = ProductSerializer
+    pagination_class = ProductResultsPagination
+
+
+@extend_schema(tags=["Products"], auth=[],)
+class AttractiveOfferListView(ListAPIView):
+    queryset = Product.objects.filter(is_active=True, is_attractive_offer=True)
+    serializer_class = ProductSerializer
+    pagination_class = ProductResultsPagination
+
